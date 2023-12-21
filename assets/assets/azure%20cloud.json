@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Was ist Microsoft Azure?",
+    "optionA": "Ein Betriebssystem",
+    "optionB": "Eine Cloud-Computing-Plattform",
+    "isAnswerA": false,
+    "solution": "Microsoft Azure ist eine Cloud-Computing-Plattform, die eine Vielzahl von Cloud-Diensten für Unternehmen und Entwickler bereitstellt."
+  },
+  {
+    "question": "Welche Art von Diensten bietet Azure an?",
+    "optionA": "Nur Webhosting",
+    "optionB": "Infrastruktur-, Plattform- und Software-Services",
+    "isAnswerA": false,
+    "solution": "Azure bietet eine breite Palette von Diensten, darunter Infrastruktur-Services (IaaS), Plattform-Services (PaaS) und Software-Services (SaaS)."
+  },
+  {
+    "question": "Was ist Azure Virtual Machines?",
+    "optionA": "Ein Virtualisierungstool",
+    "optionB": "Ein IaaS-Angebot zum Bereitstellen von virtuellen Computern",
+    "isAnswerA": false,
+    "solution": "Azure Virtual Machines ist ein IaaS-Angebot, das es ermöglicht, virtuelle Computer in der Cloud zu erstellen und zu verwalten."
+  },
+  {
+    "question": "Was ist Azure App Service?",
+    "optionA": "Eine virtuelle Netzwerkumgebung",
+    "optionB": "Eine PaaS-Lösung zum Entwickeln, Bereitstellen und Skalieren von Webanwendungen",
+    "isAnswerA": false,
+    "solution": "Azure App Service ist eine PaaS-Lösung, die es Entwicklern ermöglicht, Webanwendungen einfach zu entwickeln, bereitzustellen und zu skalieren."
+  },
+  {
+    "question": "Was ist Azure Blob Storage?",
+    "optionA": "Ein relationaler Datenbankdienst",
+    "optionB": "Ein skalierbarer Objektspeicherdienst",
+    "isAnswerA": false,
+    "solution": "Azure Blob Storage ist ein skalierbarer Objektspeicherdienst, der große Mengen unstrukturierter Daten wie Texte oder Bilder speichert."
+  },
+  {
+    "question": "Welche Rolle spielt Azure Active Directory (AAD) in der Azure Cloud?",
+    "optionA": "Ein Cloud-basierter Dateispeicher",
+    "optionB": "Ein Identitäts- und Zugriffsverwaltungsdienst",
+    "isAnswerA": false,
+    "solution": "Azure Active Directory (AAD) ist ein Identitäts- und Zugriffsverwaltungsdienst, der die Authentifizierung und Autorisierung in Azure ermöglicht."
+  },
+  {
+    "question": "Was ist Azure DevOps?",
+    "optionA": "Ein Cloud-basierter Übersetzungsdienst",
+    "optionB": "Eine integrierte Suite von Entwicklungs-Tools",
+    "isAnswerA": false,
+    "solution": "Azure DevOps ist eine integrierte Suite von Entwicklungs-Tools, die es Teams ermöglicht, Software effizient zu planen, zu entwickeln, zu testen und bereitzustellen."
+  },
+  {
+    "question": "Was sind Azure Cognitive Services?",
+    "optionA": "Körperliche Fitnessgeräte",
+    "optionB": "Dienste für maschinelles Lernen, Spracherkennung und Computer Vision",
+    "isAnswerA": false,
+    "solution": "Azure Cognitive Services sind Dienste für maschinelles Lernen, Spracherkennung, Computer Vision und mehr, um intelligente Funktionen in Anwendungen zu integrieren."
+  },
+  {
+    "question": "Was ist Azure SQL Database?",
+    "optionA": "Ein Dokumenten-Management-System",
+    "optionB": "Ein vollständig verwalteter relationale Datenbankdienst",
+    "isAnswerA": false,
+    "solution": "Azure SQL Database ist ein vollständig verwalteter relationaler Datenbankdienst in der Cloud, der auf Microsoft SQL Server basiert."
+  },
+  {
+    "question": "Welche Programmiersprachen werden in Azure unterstützt?",
+    "optionA": "Nur C#",
+    "optionB": "Mehrere, einschließlich Java, Python, Node.js und Ruby",
+    "isAnswerA": false,
+    "solution": "Azure unterstützt mehrere Programmiersprachen, darunter Java, Python, Node.js, Ruby, C# und viele andere, um die Entwicklung von Anwendungen zu erleichtern."
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Was ist die Hauptstadt von Australien?",
+    "optionA": "Sydney",
+    "optionB": "Canberra",
+    "isAnswerA": false,
+    "solution": "Die Hauptstadt von Australien ist Canberra."
+  },
+  {
+    "question": "Welches chemische Element hat das Symbol 'O' im Periodensystem?",
+    "optionA": "Sauerstoff",
+    "optionB": "Gold",
+    "isAnswerA": true,
+    "solution": "Das chemische Element mit dem Symbol 'O' im Periodensystem ist Sauerstoff."
+  },
+  {
+    "question": "Wer hat die Relativitätstheorie entwickelt?",
+    "optionA": "Isaac Newton",
+    "optionB": "Albert Einstein",
+    "isAnswerA": false,
+    "solution": "Die Relativitätstheorie wurde von Albert Einstein entwickelt."
+  },
+  {
+    "question": "Welcher Fluss ist der längste auf der Welt?",
+    "optionA": "Amazonas",
+    "optionB": "Nil",
+    "isAnswerA": true,
+    "solution": "Der längste Fluss der Welt ist der Amazonas."
+  },
+  {
+    "question": "In welchem Jahr wurde die Berliner Mauer errichtet?",
+    "optionA": "1953",
+    "optionB": "1961",
+    "isAnswerA": false,
+    "solution": "Die Berliner Mauer wurde im Jahr 1961 errichtet."
+  },
+  {
+    "question": "Wer schrieb 'Romeo und Julia'?",
+    "optionA": "William Shakespeare",
+    "optionB": "Charles Dickens",
+    "isAnswerA": true,
+    "solution": "'Romeo und Julia' wurde von William Shakespeare geschrieben."
+  },
+  {
+    "question": "Welcher Planet wird als 'der Rote Planet' bezeichnet?",
+    "optionA": "Mars",
+    "optionB": "Venus",
+    "isAnswerA": true,
+    "solution": "Der Rote Planet ist der Mars."
+  },
+  {
+    "question": "Welches Land liegt sowohl in Europa als auch in Asien?",
+    "optionA": "Russland",
+    "optionB": "Indien",
+    "isAnswerA": true,
+    "solution": "Russland liegt sowohl in Europa als auch in Asien."
+  },
+  {
+    "question": "Welches ist das kleinste Säugetier der Welt?",
+    "optionA": "Elefant",
+    "optionB": "Fledermaus (Bumblebee Bat)",
+    "isAnswerA": false,
+    "solution": "Das kleinste Säugetier der Welt ist die Fledermausart 'Bumblebee Bat'."
+  },
+  {
+    "question": "Wer malte die Mona Lisa?",
+    "optionA": "Vincent van Gogh",
+    "optionB": "Leonardo da Vinci",
+    "isAnswerA": false,
+    "solution": "Die Mona Lisa wurde von Leonardo da Vinci gemalt."
+  }
+]
