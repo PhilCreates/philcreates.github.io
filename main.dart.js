@@ -7692,7 +7692,7 @@ a4H(a,b,c,d,e){return new A.dt(d,b,c,a,e)},
 ZW(a){return A.aiC(a)},
 aiC(a){var s=0,r=A.P(t.i7),q,p=2,o,n,m,l,k,j,i,h
 var $async$ZW=A.Q(function(b,c){if(b===1){o=c
-s=p}while(true)switch(s){case 0:i="assets/questions.json"
+s=p}while(true)switch(s){case 0:i="assets/astrologie.json"
 p=4
 s=7
 return A.U($.HJ().V7(i),$async$ZW)
