@@ -1,0 +1,16 @@
+[
+  {
+    "question": "What is Azure Resource Manager (ARM) in Microsoft Azure?",
+    "optionA": "A tool for managing virtual machines",
+    "optionB": "A deployment and management service for Azure resources",
+    "isAnswerA": false,
+    "solution": "Azure Resource Manager (ARM) is the deployment and management service for Azure resources. It provides a way to deploy and manage resources in Azure using declarative templates."
+  },
+  {
+    "question": "What is Azure Virtual Network used for?",
+    "optionA": "Isolating network traffic in Azure",
+    "optionB": "Storing large amounts of data",
+    "isAnswerA": true,
+    "solution": "Azure Virtual Network allows you to isolate network traffic to and from Azure resources, providing network segmentation and security."
+  }
+]
