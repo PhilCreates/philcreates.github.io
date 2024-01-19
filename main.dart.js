@@ -17335,9 +17335,11 @@ _.d=d
 _.e=e
 _.f=f},
 a2M:function a2M(){},
-a2N:function a2N(a,b,c){this.a=a
-this.b=b
-this.c=c},
+a2N:function a2N(a,b,c,d){var _=this
+_.a=a
+_.b=b
+_.c=c
+_.d=d},
 pE:function pE(a,b,c){var _=this
 _.b=_.w=null
 _.c=!1
@@ -39941,7 +39943,7 @@ s===$&&A.b()
 s.oR(2)},
 zh(a,b,c){var s=null,r=J.bj(a),q=!0
 q=q?B.iU:s
-return new A.Ef(new A.a2N(3,10,10),new A.HU(new A.a6y(this,b,a,c),r,!0,!0,!0,s),s,B.az,!1,s,s,q,!1,s,r,B.au,B.v5,s,B.X,s)},
+return new A.Ef(new A.a2N(3,10,10,0.7),new A.HU(new A.a6y(this,b,a,c),r,!0,!0,!0,s),s,B.az,!1,s,s,q,!1,s,r,B.au,B.v5,s,B.X,s)},
 H(a){var s,r,q,p,o=this,n=null,m=A.bS("Deine Bibliothek",n,n,A.bp(n,n,B.h,n,n,n,n,n,n,n,n,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n),l=o.d
 l===$&&A.b()
 s=A.hb("assets/images/libraries.png",n,42,42)
@@ -54808,8 +54810,8 @@ s=this.b
 return s*(B.f.ft(a-1,this.a)+1)-(s-this.d)}}
 A.a2M.prototype={}
 A.a2N.prototype={
-Cr(a){var s=this.c,r=this.a,q=Math.max(0,a.w-s*(r-1))/r,p=q/1
-return new A.a2Q(r,p+this.b,q+s,p,q,A.Rd(a.x))}}
+Cr(a){var s=this,r=s.c,q=s.a,p=Math.max(0,a.w-r*(q-1))/q,o=p/s.d
+return new A.a2Q(q,o+s.b,p+r,o,p,A.Rd(a.x))}}
 A.pE.prototype={
 i(a){return"crossAxisOffset="+A.h(this.w)+"; "+this.Rj(0)}}
 A.GX.prototype={
@@ -54817,10 +54819,7 @@ dG(a){if(!(a.b instanceof A.pE))a.b=new A.pE(!1,null,null)},
 sOy(a){var s,r=this
 if(r.eL===a)return
 if(A.t(a)===A.t(r.eL)){s=r.eL
-if(s.a===a.a)if(s.b===a.b)if(s.c===a.c)s=!1
-else s=!0
-else s=!0
-else s=!0}else s=!0
+s=s.a!==a.a||s.b!==a.b||s.c!==a.c||s.d!==a.d||!1}else s=!0
 if(s)r.a1()
 r.eL=a},
 ms(a){var s=a.b
