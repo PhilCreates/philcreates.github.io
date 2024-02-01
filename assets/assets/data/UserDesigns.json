@@ -1,0 +1,88 @@
+{
+  "Users": {
+    "def": {
+      "Designs": {
+        "corporate_name": "Neuer User",
+        "corporate_image_path": "assets/images/favicon.png",
+        "libraries_icon_path": "assets/images/libraries00.png",
+        "cases_icon_path": "assets/images/cases00.png",
+        "books_icon_path": "assets/images/books00.png",
+        "boxes_icon_path": "assets/images/boxes00.png",
+        "decks_icon_path": "assets/images/decks00.png",
+        "cards_icon_path": "assets/images/cards00.png",
+        "color_corporate_first": "#000000",
+        "color_corporate_second": "#FFFFFF",
+        "color_corporate_third": "#FFFFFF",
+        "color_corporate_title": "#000000",
+        "color_corporate_title_shadow": "#FFFFFF",
+        "color_corporate_sub": "#424242",
+        "color_corporate_desc": "#000000",
+        "color_corporate_quiz_inner": "#FFFFFF",
+        "color_corporate_quiz_outer": "#1565C0"
+      }
+    },
+    "fks": {
+      "Designs": {
+        "corporate_name": "Feuerwehr Kommando Schweiz",
+        "corporate_image_path": "assets/images/FKS/logo_fks_cssp_csp.webp",
+        "libraries_icon_path": "assets/images/libraries.png",
+        "cases_icon_path": "assets/images/cases.png",
+        "books_icon_path": "assets/images/books.png",
+        "boxes_icon_path": "assets/images/boxes.png",
+        "decks_icon_path": "assets/images/decks.png",
+        "cards_icon_path": "assets/images/cards.png",
+        "color_corporate_first": "#FF0000",
+        "color_corporate_second": "#FFFFFF",
+        "color_corporate_third": "#FFA500",
+        "color_corporate_title": "#000000",
+        "color_corporate_title_shadow": "#FFFFFF",
+        "color_corporate_sub": "#424242",
+        "color_corporate_desc": "#000000",
+        "color_corporate_quiz_inner": "#FFFFFF",
+        "color_corporate_quiz_outer": "#1565C0"
+      }
+    },
+    "grace": {
+      "Designs": {
+        "corporate_name": "Hotel Grace St. Moritz",
+        "corporate_image_path": "assets/images/Grace/hotel-grace-logo.png",
+        "libraries_icon_path": "assets/images/libraries00.png",
+        "cases_icon_path": "assets/images/cases00.png",
+        "books_icon_path": "assets/images/books00.png",
+        "boxes_icon_path": "assets/images/boxes00.png",
+        "decks_icon_path": "assets/images/decks00.png",
+        "cards_icon_path": "assets/images/cards00.png",
+        "color_corporate_first": "#000000",
+        "color_corporate_second": "#FFFFFF",
+        "color_corporate_third": "#FFFFFF",
+        "color_corporate_title": "#000000",
+        "color_corporate_title_shadow": "#FFFFFF",
+        "color_corporate_sub": "#424242",
+        "color_corporate_desc": "#000000",
+        "color_corporate_quiz_inner": "#FFFFFF",
+        "color_corporate_quiz_outer": "#1565C0"
+      }
+    },
+    "ibk-snow": {
+      "Designs": {
+        "corporate_name": "IBK S`NOW",
+        "corporate_image_path": "assets/images/IBK-Snow/600-resize-of-Logo IBK-Snow.webp",
+        "libraries_icon_path": "assets/images/libraries.png",
+        "cases_icon_path": "assets/images/cases.png",
+        "books_icon_path": "assets/images/books.png",
+        "boxes_icon_path": "assets/images/boxes.png",
+        "decks_icon_path": "assets/images/decks.png",
+        "cards_icon_path": "assets/images/cards.png",
+        "color_corporate_first": "#FEC600",
+        "color_corporate_second": "#000000",
+        "color_corporate_third": "#808080",
+        "color_corporate_title": "#FFFFFF",
+        "color_corporate_title_shadow": "#1565C0",
+        "color_corporate_sub": "#FFFFFF",
+        "color_corporate_desc": "#FFFFFF",
+        "color_corporate_quiz_inner": "#FFFFFF",
+        "color_corporate_quiz_outer": "#1565C0"
+      }
+    }
+  }
+}

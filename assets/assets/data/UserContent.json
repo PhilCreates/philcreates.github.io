@@ -1,0 +1,2113 @@
+{
+  "Users": {
+    "def": {
+      "Content": {
+        "Collection": {
+          "Libraries": [
+            {
+              "name": "Schule",
+              "image": "https://image.jimcdn.com/app/cms/image/transf/none/path/s3b25af1fa8edf12c/image/i58cde1c9f2539bc9/version/1574763617/schulb%C3%BCcher.jpg",
+              "Cases": [
+                {
+                  "name": "Abitur Baden-W\u00fcrttemberg",
+                  "image": "assets/images/Default/abitur_bw.png",
+                  "Books": [
+                    {
+                      "name": "Deutsch-Abitur",
+                      "image": "https://images.thalia.media/00/-/a31b59da87b54890924266edbbc7e834/stark-abiturpruefung-bawue-2024-deutsch-leistungsfach-21-auflage-stark-verlag-gmbh.jpeg",
+                      "Browse": {
+                        "Boxes": [
+                          {
+                            "name": "Lekt\u00fcre",
+                            "image": "https://cdn-icons-png.flaticon.com/512/2153/2153425.png",
+                            "Decks": [
+                              {
+                                "name": "Die Leiden des jungen Werther",
+                                "image": "https://static.thenounproject.com/png/1355880-200.png",
+                                "Cards": [
+                                  {
+                                    "name": "Zusammenfassung",
+                                    "image": "https://static.thenounproject.com/png/1355880-200.png",
+                                    "Stack": [
+                                      {
+                                        "cardName": "Ankunft im Dorf",
+                                        "cardType": "Buch",
+                                        "cardDesc": "Beschreibung von Werthers Ankunft im Dorf und seinen ersten Eindrücken.",
+                                        "cardImg": "assets/images/Default/ankunft_im_dorf.jpg",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "Frage 1",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wie heißt das Dorf, in dem Werther ankommt?",
+                                              "cardQuizOptions": {
+                                                "a": "Wetzlar",
+                                                "b": "Weimar"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Werther kommt im Dorf 'Wetzlar' an und beginnt dort seinen Aufenthalt."
+                                            }
+                                          },
+                                          {
+                                            "cardName": "Frage 2",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welche Landschaft beeindruckt Werther bei seiner Ankunft?",
+                                              "cardQuizOptions": {
+                                                "a": "Gebirge",
+                                                "b": "Flussufer"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Werther ist bei seiner Ankunft am Flussufer beeindruckt von der malerischen Landschaft."
+                                            }
+                                          },
+                                          {
+                                            "cardName": "Frage 3",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was ist Werthers erster Eindruck von den Dorfbewohnern?",
+                                              "cardQuizOptions": {
+                                                "a": "Sie sind freundlich und aufgeschlossen.",
+                                                "b": "Sie sind distanziert und reserviert."
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Werther empfindet die Dorfbewohner bei seiner Ankunft als distanziert und reserviert."
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "cardName": "Begegnung mit Lotte",
+                                        "cardType": "Buch",
+                                        "cardDesc": "Beschreibung von Werthers erster Begegnung mit Lotte und seinen Gefühlen für sie.",
+                                        "cardImg": "assets/images/Default/lotte.jpg",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "Frage 1",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welchen Eindruck hinterlässt Lotte auf Werther bei ihrer ersten Begegnung?",
+                                              "cardQuizOptions": {
+                                                "a": "Sie ist unhöflich und abweisend.",
+                                                "b": "Sie ist freundlich und bezaubernd."
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Lotte hinterlässt auf Werther bei ihrer ersten Begegnung einen positiven Eindruck und erscheint ihm freundlich und bezaubernd."
+                                            }
+                                          },
+                                          {
+                                            "cardName": "Frage 2",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welche Blume verbindet Werther mit Lotte?",
+                                              "cardQuizOptions": {
+                                                "a": "Rosen",
+                                                "b": "Veilchen"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Werther verbindet die Blume 'Veilchen' mit Lotte, da sie ihm diese in Erinnerung bleibt."
+                                            }
+                                          },
+                                          {
+                                            "cardName": "Frage 3",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was empfindet Werther für Lotte nach ihrer ersten Begegnung?",
+                                              "cardQuizOptions": {
+                                                "a": "Geschwisterliche Liebe",
+                                                "b": "Leidenschaftliche Liebe"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Nach ihrer ersten Begegnung empfindet Werther leidenschaftliche Liebe für Lotte."
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "cardName": "Werthers Tragödie",
+                                        "cardType": "Buch",
+                                        "cardDesc": "Beschreibung von Werthers tragischem Schicksal und seinem inneren Konflikt.",
+                                        "cardImg": "assets/images/Default/werther.jpg",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "Frage 1",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was führt letztendlich zu Werthers tragischem Ende?",
+                                              "cardQuizOptions": {
+                                                "a": "Ein Unfall",
+                                                "b": "Liebeskummer und Selbstmord"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Werthers tragisches Ende resultiert aus Liebeskummer und seinem Selbstmord."
+                                            }
+                                          },
+                                          {
+                                            "cardName": "Frage 2",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was symbolisiert die Natur in Werthers innerem Konflikt?",
+                                              "cardQuizOptions": {
+                                                "a": "Hoffnung",
+                                                "b": "Zerstörung"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Die Natur symbolisiert in Werthers innerem Konflikt Hoffnung und Verzweiflung zugleich."
+                                            }
+                                          },
+                                          {
+                                            "cardName": "Frage 3",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Warum kann Werther seine Liebe zu Lotte nicht leben?",
+                                              "cardQuizOptions": {
+                                                "a": "Lotte ist bereits verheiratet.",
+                                                "b": "Lotte liebt einen anderen Mann."
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Werther kann seine Liebe zu Lotte nicht leben, da diese bereits verheiratet ist und er darunter leidet."
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Faust I",
+                                "image": "https://cdn-icons-png.flaticon.com/512/1527/1527443.png",
+                                "Cards": [
+                                  {
+                                    "name": "Die Gelehrtentrag\u00f6die",
+                                    "image": "https://cdn-icons-png.flaticon.com/512/2889/2889078.png",
+                                    "Stack": [
+                                      {
+                                        "cardName": "Gelehrtentrag\u00f6die",
+                                        "cardType": "Begriff",
+                                        "cardDesc": "Eine Form des Drama innerhalb von Goethes 'Faust 1', die Fausts inneren Konflikt zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und Erf\u00fcllung darstellt.",
+                                        "cardImg": "assets/images/Default/studierzimmer.jpg",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "Frage 1",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was ist das Hauptthema der Gelehrtentrag\u00f6die in Goethes 'Faust 1'?",
+                                              "cardQuizOptions": {
+                                                "a": "Die Suche nach Liebe und Gl\u00fcck",
+                                                "b": "Der Konflikt zwischen Wissenschaft und Sehnsucht nach Sinn"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Die Gelehrtentrag\u00f6die in 'Faust 1' dreht sich haupts\u00e4chlich um den inneren Konflikt von Faust zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und Erf\u00fcllung."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 2",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wer ist Fausts Assistent in der Gelehrtentrag\u00f6die?",
+                                              "cardQuizOptions": {
+                                                "a": "Mephistopheles",
+                                                "b": "Wagner"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Wagner ist Fausts Assistent in der Gelehrtentrag\u00f6die, und er verk\u00f6rpert einen Kontrast zu Faust in Bezug auf seine akademischen Studien."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 3",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welcher Schauplatz ist f\u00fcr die Gelehrtentrag\u00f6die in 'Faust 1' besonders bedeutend?",
+                                              "cardQuizOptions": {
+                                                "a": "Das Dorf",
+                                                "b": "Das Studierzimmer"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Das Studierzimmer ist der zentrale Schauplatz f\u00fcr die Gelehrtentrag\u00f6die in 'Faust 1' und symbolisiert Fausts inneren Konflikt und seine Suche nach Wissen und Sinn."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 4",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welche Rolle spielt Mephistopheles in der Gelehrtentrag\u00f6die?",
+                                              "cardQuizOptions": {
+                                                "a": "Er ist Fausts bester Freund",
+                                                "b": "Er ist der Teufel, der Faust verf\u00fchrt und begleitet"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Mephistopheles ist der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer f\u00fchrt, was zu Fausts innerem Konflikt beitr\u00e4gt."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 5",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was ist das Ergebnis von Fausts Streben in der Gelehrtentrag\u00f6die?",
+                                              "cardQuizOptions": {
+                                                "a": "Er erreicht ewiges Gl\u00fcck und Frieden",
+                                                "b": "Er bleibt unzufrieden und verzweifelt"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "In der Gelehrtentrag\u00f6die bleibt Faust unzufrieden und verzweifelt, da er keine dauerhafte Erf\u00fcllung in seinen wissenschaftlichen Bem\u00fchungen findet."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "cardName": "Faust",
+                                        "cardType": "Charakter",
+                                        "cardDesc": "Die Hauptfigur des Dramas, ein Gelehrter, der unzufrieden mit seinem Leben ist und einen Pakt mit dem Teufel Mephistopheles eingeht.",
+                                        "cardImg": "assets/images/Default/faust.jpg",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "Frage 1",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was ist Fausts beruflicher Hintergrund?",
+                                              "cardQuizOptions": {
+                                                "a": "Arzt",
+                                                "b": "Gelehrter"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Faust ist ein Gelehrter, der verzweifelt nach tieferem Wissen und Verständnis strebt."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 2",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "In welchem Zustand befindet sich Faust zu Beginn des Dramas?",
+                                              "cardQuizOptions": {
+                                                "a": "Zufrieden und erfüllt",
+                                                "b": "Verzweifelt und unzufrieden"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Faust ist zu Beginn des Dramas verzweifelt und unzufrieden mit seinem Leben und seiner Suche nach Wissen."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 3",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Womit droht Faust, bevor er den Pakt mit Mephistopheles schließt?",
+                                              "cardQuizOptions": {
+                                                "a": "Seinen Ruf zu ruinieren",
+                                                "b": "Selbstmord"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Faust erwägt Selbstmord aufgrund seiner tiefen Unzufriedenheit und Verzweiflung, bevor er den Pakt mit Mephistopheles eingeht."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 4",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was verspricht Mephistopheles Faust im Austausch für seine Seele?",
+                                              "cardQuizOptions": {
+                                                "a": "Unsterblichkeit",
+                                                "b": "Unbegrenzte Erkenntnis und Vergnügen"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Mephistopheles verspricht Faust unbegrenzte Erkenntnis und Vergnügen im Austausch für seine Seele."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 5",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welche Bedingung stellt Faust für den Pakt mit Mephistopheles?",
+                                              "cardQuizOptions": {
+                                                "a": "Er will der mächtigste Mensch auf Erden werden",
+                                                "b": "Er will einen Moment erleben, den er nicht loslassen möchte"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Faust stellt die Bedingung, dass Mephistopheles ihm einen Moment bieten muss, den er so sehr genießt, dass er wünscht, er möge ewig dauern."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "cardName": "Mephistopheles",
+                                        "cardType": "Charakter",
+                                        "cardDesc": "Der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer f\u00fchrt.",
+                                        "cardImg": "assets/images/Default/mephisto.jpg",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "Frage 1",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wie wird Mephistopheles erstmals in 'Faust' eingeführt?",
+                                              "cardQuizOptions": {
+                                                "a": "Als ein Geist",
+                                                "b": "Als ein schwarzer Pudel"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Mephistopheles tritt zuerst in der Gestalt eines schwarzen Pudels auf, als er Faust auf seinem Spaziergang begleitet."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 2",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was repräsentiert Mephistopheles in 'Faust'?",
+                                              "cardQuizOptions": {
+                                                "a": "Das Streben nach Tugend",
+                                                "b": "Das Prinzip des Bösen"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Mephistopheles repräsentiert das Prinzip des Bösen und die Versuchung, sich von moralischen Werten abzuwenden."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 3",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wie charakterisiert Mephistopheles sich selbst in 'Faust'?",
+                                              "cardQuizOptions": {
+                                                "a": "Als Teil der Kraft, die stets das Böse will und stets das Gute schafft",
+                                                "b": "Als ein einfacher Diener des Himmels"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Mephistopheles beschreibt sich selbst als einen Teil der Kraft, die stets das Böse will und stets das Gute schafft, was seine komplexe Natur hervorhebt."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 4",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welches Ziel verfolgt Mephistopheles mit seinem Pakt mit Faust?",
+                                              "cardQuizOptions": {
+                                                "a": "Fausts Seele zu gewinnen",
+                                                "b": "Die Welt zu beherrschen"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Mephistopheles' Hauptziel in seinem Pakt mit Faust ist es, Fausts Seele zu gewinnen."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 5",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wie reagiert Mephistopheles auf Fausts Verzweiflung und Selbstmordgedanken?",
+                                              "cardQuizOptions": {
+                                                "a": "Mit Gleichgültigkeit",
+                                                "b": "Mit Versprechungen und Verlockungen"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Mephistopheles reagiert auf Fausts Verzweiflung und Selbstmordgedanken mit Versprechungen und Verlockungen, um ihn von seinem Vorhaben abzubringen und seinen Pakt zu sichern."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Die Gretchentrag\u00f6die",
+                                    "image": "https://cdn-icons-png.flaticon.com/512/47/47038.png"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Grammatik",
+                            "image": "assets/images/fact_icon.png",
+                            "Decks": [
+                              {
+                                "name": "Einführung",
+                                "image": "assets/images/fact_icon.png",
+                                "Cards": [
+                                  {
+                                    "name": "Wortarten",
+                                    "image": "assets/images/fact_icon.png",
+                                    "Stack": [
+                                      {
+                                        "cardName": "Was sind Pronomen?",
+                                        "cardType": "Text",
+                                        "cardDesc": "Eine kurze Einführung in Pronomen in der deutschen Grammatik.",
+                                        "cardImg": "assets/images/fact_icon.png",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "Frage 1",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was sind Pronomen?",
+                                              "cardQuizOptions": {
+                                                "a": "Pronomen sind Wörter, die Tiere und Dinge beschreiben.",
+                                                "b": "Pronomen sind Wörter, die Nomen ersetzen oder auf sie verweisen."
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Richtig! Pronomen sind Wörter, die Nomen ersetzen oder auf sie verweisen."
+                                            },
+                                            "cardImg": "URL_FRAGE_1_BILD.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 2",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was ist ein Beispiel für ein Personalpronomen?",
+                                              "cardQuizOptions": {
+                                                "a": "Haus",
+                                                "b": "Er"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Korrekt! 'Er' ist ein Beispiel für ein Personalpronomen."
+                                            },
+                                            "cardImg": "URL_FRAGE_2_BILD.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 3",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was ist der Unterschied zwischen einem Demonstrativpronomen und einem Possessivpronomen?",
+                                              "cardQuizOptions": {
+                                                "a": "Demonstrativpronomen zeigen auf etwas hin, während Possessivpronomen den Besitz ausdrücken.",
+                                                "b": "Es gibt keinen Unterschied zwischen ihnen."
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Gut gemacht! Demonstrativpronomen zeigen auf etwas hin, während Possessivpronomen den Besitz ausdrücken."
+                                            },
+                                            "cardImg": "URL_FRAGE_3_BILD.png"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "cardName": "Was sind Verben?",
+                                        "cardType": "Text",
+                                        "cardDesc": "Eine kurze Einführung in Verben in der deutschen Grammatik.",
+                                        "cardImg": "assets/images/fact_icon.png",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "Frage 1",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was sind Verben?",
+                                              "cardQuizOptions": {
+                                                "a": "Verben sind Wörter, die Personen und Orte beschreiben.",
+                                                "b": "Verben sind Wörter, die Handlungen, Zustände oder Vorgänge ausdrücken."
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Richtig! Verben sind Wörter, die Handlungen, Zustände oder Vorgänge ausdrücken."
+                                            },
+                                            "cardImg": "URL_FRAGE_1_BILD.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 2",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was ist ein Beispiel für ein starkes Verb im Deutschen?",
+                                              "cardQuizOptions": {
+                                                "a": "Spielen",
+                                                "b": "Lesen"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Korrekt! 'Lesen' ist ein Beispiel für ein starkes Verb im Deutschen."
+                                            },
+                                            "cardImg": "URL_FRAGE_2_BILD.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 3",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wie werden Verben in der imperativen Form konjugiert?",
+                                              "cardQuizOptions": {
+                                                "a": "In der imperativen Form werden Verben in der dritten Person Singular konjugiert.",
+                                                "b": "In der imperativen Form werden Verben in der Grundform (Infinitiv) ohne das Subjekt konjugiert."
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Gut gemacht! In der imperativen Form werden Verben in der Grundform (Infinitiv) ohne das Subjekt konjugiert."
+                                            },
+                                            "cardImg": "URL_FRAGE_3_BILD.png"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "cardName": "Was sind Adjektive?",
+                                        "cardType": "Text",
+                                        "cardDesc": "Eine kurze Einführung in Adjektive in der deutschen Grammatik.",
+                                        "cardImg": "assets/images/fact_icon.png",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "Frage 1",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was sind Adjektive?",
+                                              "cardQuizOptions": {
+                                                "a": "Adjektive sind Wörter, die Handlungen beschreiben.",
+                                                "b": "Adjektive sind Wörter, die Eigenschaften von Nomen beschreiben."
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Richtig! Adjektive sind Wörter, die Eigenschaften von Nomen beschreiben."
+                                            },
+                                            "cardImg": "URL_FRAGE_1_BILD.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 2",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was ist ein Steigerungsgrad von Adjektiven?",
+                                              "cardQuizOptions": {
+                                                "a": "Der Steigerungsgrad von Adjektiven beschreibt, wie oft die Eigenschaft vorhanden ist.",
+                                                "b": "Der Steigerungsgrad von Adjektiven beschreibt die Intensität oder den Vergleich von Eigenschaften."
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Korrekt! Der Steigerungsgrad von Adjektiven beschreibt die Intensität oder den Vergleich von Eigenschaften."
+                                            },
+                                            "cardImg": "URL_FRAGE_2_BILD.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 3",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was ist ein Beispiel für ein attributives Adjektiv?",
+                                              "cardQuizOptions": {
+                                                "a": "Schnell rennend",
+                                                "b": "Schnell rennt"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Gut gemacht! 'Schnell rennend' ist ein Beispiel für ein attributives Adjektiv."
+                                            },
+                                            "cardImg": "URL_FRAGE_3_BILD.png"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Mathe-Abitur",
+                      "image": "https://images.thalia.media/00/-/34c614d48d53479fb74c6a1650c55f69/stark-abiturpruefung-bawue-2024-mathematik-leistungsfach-22-neu-bearbeitete-und-ergaenzte-auflage-stark-verlag-gmbh.jpeg",
+                      "Browse": {
+                        "Boxes": [
+                          {
+                            "name": "Analysis",
+                            "image": "https://cdn-icons-png.flaticon.com/512/261/261957.png",
+                            "Decks": [
+                              {
+                                "name": "Kurvendiskussion",
+                                "image": "https://cdn-icons-png.flaticon.com/512/261/261957.png",
+                                "Cards": [
+                                  {
+                                    "name": "Lineare Funktionen",
+                                    "image": "https://cdn-icons-png.flaticon.com/512/261/261957.png",
+                                    "Stack": [
+                                      {
+                                        "cardName": "Geradengleichung",
+                                        "cardType": "Formel",
+                                        "cardDesc": "Eine Geradengleichung y = m x + n enthält die Steigung x und den Achsenabschnitt b.",
+                                        "cardImg": "assets/images/Default/Gerade_Koordinatenform.PNG",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "Frage 1",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wie heißt der Faktor, der in einer Geradengleichung mit der unabhängigen Variable x multipliziert wird?",
+                                              "cardQuizOptions": {
+                                                "a": "Achsenabschnitt n",
+                                                "b": "Steigung m"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "In einer Geradengleichung wird die Steigung m mit der unabhängigen Variable x multipliziert."
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "Browse": {
+          "Boxes": [
+            {
+              "name": "Lekt\u00fcre",
+              "image": "https://cdn-icons-png.flaticon.com/512/2153/2153425.png",
+              "Decks": [
+                {
+                  "name": "Die Leiden des jungen Werther",
+                  "image": "https://static.thenounproject.com/png/1355880-200.png",
+                  "Cards": [
+                    {
+                      "name": "Zusammenfassung",
+                      "image": "https://static.thenounproject.com/png/1355880-200.png",
+                      "Stack": [
+                        {
+                          "cardName": "Ankunft im Dorf",
+                          "cardType": "Buch",
+                          "cardDesc": "Beschreibung von Werthers Ankunft im Dorf und seinen ersten Eindrücken.",
+                          "cardImg": "assets/images/Default/ankunft_im_dorf.jpg",
+                          "Quiz": [
+                            {
+                              "cardName": "Frage 1",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Wie heißt das Dorf, in dem Werther ankommt?",
+                                "cardQuizOptions": {
+                                  "a": "Wetzlar",
+                                  "b": "Weimar"
+                                },
+                                "cardQuizSolution": "a",
+                                "cardQuizExplanation": "Werther kommt im Dorf 'Wetzlar' an und beginnt dort seinen Aufenthalt."
+                              }
+                            },
+                            {
+                              "cardName": "Frage 2",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Welche Landschaft beeindruckt Werther bei seiner Ankunft?",
+                                "cardQuizOptions": {
+                                  "a": "Gebirge",
+                                  "b": "Flussufer"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Werther ist bei seiner Ankunft am Flussufer beeindruckt von der malerischen Landschaft."
+                              }
+                            },
+                            {
+                              "cardName": "Frage 3",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was ist Werthers erster Eindruck von den Dorfbewohnern?",
+                                "cardQuizOptions": {
+                                  "a": "Sie sind freundlich und aufgeschlossen.",
+                                  "b": "Sie sind distanziert und reserviert."
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Werther empfindet die Dorfbewohner bei seiner Ankunft als distanziert und reserviert."
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "cardName": "Begegnung mit Lotte",
+                          "cardType": "Buch",
+                          "cardDesc": "Beschreibung von Werthers erster Begegnung mit Lotte und seinen Gefühlen für sie.",
+                          "cardImg": "assets/images/Default/lotte.jpg",
+                          "Quiz": [
+                            {
+                              "cardName": "Frage 1",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Welchen Eindruck hinterlässt Lotte auf Werther bei ihrer ersten Begegnung?",
+                                "cardQuizOptions": {
+                                  "a": "Sie ist unhöflich und abweisend.",
+                                  "b": "Sie ist freundlich und bezaubernd."
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Lotte hinterlässt auf Werther bei ihrer ersten Begegnung einen positiven Eindruck und erscheint ihm freundlich und bezaubernd."
+                              }
+                            },
+                            {
+                              "cardName": "Frage 2",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Welche Blume verbindet Werther mit Lotte?",
+                                "cardQuizOptions": {
+                                  "a": "Rosen",
+                                  "b": "Veilchen"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Werther verbindet die Blume 'Veilchen' mit Lotte, da sie ihm diese in Erinnerung bleibt."
+                              }
+                            },
+                            {
+                              "cardName": "Frage 3",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was empfindet Werther für Lotte nach ihrer ersten Begegnung?",
+                                "cardQuizOptions": {
+                                  "a": "Geschwisterliche Liebe",
+                                  "b": "Leidenschaftliche Liebe"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Nach ihrer ersten Begegnung empfindet Werther leidenschaftliche Liebe für Lotte."
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "cardName": "Werthers Tragödie",
+                          "cardType": "Buch",
+                          "cardDesc": "Beschreibung von Werthers tragischem Schicksal und seinem inneren Konflikt.",
+                          "cardImg": "assets/images/Default/werther.jpg",
+                          "Quiz": [
+                            {
+                              "cardName": "Frage 1",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was führt letztendlich zu Werthers tragischem Ende?",
+                                "cardQuizOptions": {
+                                  "a": "Ein Unfall",
+                                  "b": "Liebeskummer und Selbstmord"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Werthers tragisches Ende resultiert aus Liebeskummer und seinem Selbstmord."
+                              }
+                            },
+                            {
+                              "cardName": "Frage 2",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was symbolisiert die Natur in Werthers innerem Konflikt?",
+                                "cardQuizOptions": {
+                                  "a": "Hoffnung",
+                                  "b": "Zerstörung"
+                                },
+                                "cardQuizSolution": "a",
+                                "cardQuizExplanation": "Die Natur symbolisiert in Werthers innerem Konflikt Hoffnung und Verzweiflung zugleich."
+                              }
+                            },
+                            {
+                              "cardName": "Frage 3",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Warum kann Werther seine Liebe zu Lotte nicht leben?",
+                                "cardQuizOptions": {
+                                  "a": "Lotte ist bereits verheiratet.",
+                                  "b": "Lotte liebt einen anderen Mann."
+                                },
+                                "cardQuizSolution": "a",
+                                "cardQuizExplanation": "Werther kann seine Liebe zu Lotte nicht leben, da diese bereits verheiratet ist und er darunter leidet."
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Faust I",
+                  "image": "https://cdn-icons-png.flaticon.com/512/1527/1527443.png",
+                  "Cards": [
+                    {
+                      "name": "Die Gelehrtentrag\u00f6die",
+                      "image": "https://cdn-icons-png.flaticon.com/512/2889/2889078.png",
+                      "Stack": [
+                        {
+                          "cardName": "Gelehrtentrag\u00f6die",
+                          "cardType": "Begriff",
+                          "cardDesc": "Eine Form des Drama innerhalb von Goethes 'Faust 1', die Fausts inneren Konflikt zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und Erf\u00fcllung darstellt.",
+                          "cardImg": "assets/images/Default/studierzimmer.jpg",
+                          "Quiz": [
+                            {
+                              "cardName": "Frage 1",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was ist das Hauptthema der Gelehrtentrag\u00f6die in Goethes 'Faust 1'?",
+                                "cardQuizOptions": {
+                                  "a": "Die Suche nach Liebe und Gl\u00fcck",
+                                  "b": "Der Konflikt zwischen Wissenschaft und Sehnsucht nach Sinn"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Die Gelehrtentrag\u00f6die in 'Faust 1' dreht sich haupts\u00e4chlich um den inneren Konflikt von Faust zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und Erf\u00fcllung."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 2",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Wer ist Fausts Assistent in der Gelehrtentrag\u00f6die?",
+                                "cardQuizOptions": {
+                                  "a": "Mephistopheles",
+                                  "b": "Wagner"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Wagner ist Fausts Assistent in der Gelehrtentrag\u00f6die, und er verk\u00f6rpert einen Kontrast zu Faust in Bezug auf seine akademischen Studien."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 3",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Welcher Schauplatz ist f\u00fcr die Gelehrtentrag\u00f6die in 'Faust 1' besonders bedeutend?",
+                                "cardQuizOptions": {
+                                  "a": "Das Dorf",
+                                  "b": "Das Studierzimmer"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Das Studierzimmer ist der zentrale Schauplatz f\u00fcr die Gelehrtentrag\u00f6die in 'Faust 1' und symbolisiert Fausts inneren Konflikt und seine Suche nach Wissen und Sinn."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 4",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Welche Rolle spielt Mephistopheles in der Gelehrtentrag\u00f6die?",
+                                "cardQuizOptions": {
+                                  "a": "Er ist Fausts bester Freund",
+                                  "b": "Er ist der Teufel, der Faust verf\u00fchrt und begleitet"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Mephistopheles ist der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer f\u00fchrt, was zu Fausts innerem Konflikt beitr\u00e4gt."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 5",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was ist das Ergebnis von Fausts Streben in der Gelehrtentrag\u00f6die?",
+                                "cardQuizOptions": {
+                                  "a": "Er erreicht ewiges Gl\u00fcck und Frieden",
+                                  "b": "Er bleibt unzufrieden und verzweifelt"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "In der Gelehrtentrag\u00f6die bleibt Faust unzufrieden und verzweifelt, da er keine dauerhafte Erf\u00fcllung in seinen wissenschaftlichen Bem\u00fchungen findet."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            }
+                          ]
+                        },
+                        {
+                          "cardName": "Faust",
+                          "cardType": "Charakter",
+                          "cardDesc": "Die Hauptfigur des Dramas, ein Gelehrter, der unzufrieden mit seinem Leben ist und einen Pakt mit dem Teufel Mephistopheles eingeht.",
+                          "cardImg": "assets/images/Default/faust.jpg",
+                          "Quiz": [
+                            {
+                              "cardName": "Frage 1",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was ist Fausts beruflicher Hintergrund?",
+                                "cardQuizOptions": {
+                                  "a": "Arzt",
+                                  "b": "Gelehrter"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Faust ist ein Gelehrter, der verzweifelt nach tieferem Wissen und Verständnis strebt."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 2",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "In welchem Zustand befindet sich Faust zu Beginn des Dramas?",
+                                "cardQuizOptions": {
+                                  "a": "Zufrieden und erfüllt",
+                                  "b": "Verzweifelt und unzufrieden"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Faust ist zu Beginn des Dramas verzweifelt und unzufrieden mit seinem Leben und seiner Suche nach Wissen."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 3",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Womit droht Faust, bevor er den Pakt mit Mephistopheles schließt?",
+                                "cardQuizOptions": {
+                                  "a": "Seinen Ruf zu ruinieren",
+                                  "b": "Selbstmord"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Faust erwägt Selbstmord aufgrund seiner tiefen Unzufriedenheit und Verzweiflung, bevor er den Pakt mit Mephistopheles eingeht."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 4",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was verspricht Mephistopheles Faust im Austausch für seine Seele?",
+                                "cardQuizOptions": {
+                                  "a": "Unsterblichkeit",
+                                  "b": "Unbegrenzte Erkenntnis und Vergnügen"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Mephistopheles verspricht Faust unbegrenzte Erkenntnis und Vergnügen im Austausch für seine Seele."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 5",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Welche Bedingung stellt Faust für den Pakt mit Mephistopheles?",
+                                "cardQuizOptions": {
+                                  "a": "Er will der mächtigste Mensch auf Erden werden",
+                                  "b": "Er will einen Moment erleben, den er nicht loslassen möchte"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Faust stellt die Bedingung, dass Mephistopheles ihm einen Moment bieten muss, den er so sehr genießt, dass er wünscht, er möge ewig dauern."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            }
+                          ]
+                        },
+                        {
+                          "cardName": "Mephistopheles",
+                          "cardType": "Charakter",
+                          "cardDesc": "Der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer f\u00fchrt.",
+                          "cardImg": "assets/images/Default/mephisto.jpg",
+                          "Quiz": [
+                            {
+                              "cardName": "Frage 1",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Wie wird Mephistopheles erstmals in 'Faust' eingeführt?",
+                                "cardQuizOptions": {
+                                  "a": "Als ein Geist",
+                                  "b": "Als ein schwarzer Pudel"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Mephistopheles tritt zuerst in der Gestalt eines schwarzen Pudels auf, als er Faust auf seinem Spaziergang begleitet."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 2",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was repräsentiert Mephistopheles in 'Faust'?",
+                                "cardQuizOptions": {
+                                  "a": "Das Streben nach Tugend",
+                                  "b": "Das Prinzip des Bösen"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Mephistopheles repräsentiert das Prinzip des Bösen und die Versuchung, sich von moralischen Werten abzuwenden."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 3",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Wie charakterisiert Mephistopheles sich selbst in 'Faust'?",
+                                "cardQuizOptions": {
+                                  "a": "Als Teil der Kraft, die stets das Böse will und stets das Gute schafft",
+                                  "b": "Als ein einfacher Diener des Himmels"
+                                },
+                                "cardQuizSolution": "a",
+                                "cardQuizExplanation": "Mephistopheles beschreibt sich selbst als einen Teil der Kraft, die stets das Böse will und stets das Gute schafft, was seine komplexe Natur hervorhebt."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 4",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Welches Ziel verfolgt Mephistopheles mit seinem Pakt mit Faust?",
+                                "cardQuizOptions": {
+                                  "a": "Fausts Seele zu gewinnen",
+                                  "b": "Die Welt zu beherrschen"
+                                },
+                                "cardQuizSolution": "a",
+                                "cardQuizExplanation": "Mephistopheles' Hauptziel in seinem Pakt mit Faust ist es, Fausts Seele zu gewinnen."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            },
+                            {
+                              "cardName": "Frage 5",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Wie reagiert Mephistopheles auf Fausts Verzweiflung und Selbstmordgedanken?",
+                                "cardQuizOptions": {
+                                  "a": "Mit Gleichgültigkeit",
+                                  "b": "Mit Versprechungen und Verlockungen"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Mephistopheles reagiert auf Fausts Verzweiflung und Selbstmordgedanken mit Versprechungen und Verlockungen, um ihn von seinem Vorhaben abzubringen und seinen Pakt zu sichern."
+                              },
+                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Die Gretchentrag\u00f6die",
+                      "image": "https://cdn-icons-png.flaticon.com/512/47/47038.png"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Grammatik",
+              "image": "assets/images/fact_icon.png",
+              "Decks": [
+                {
+                  "name": "Einführung",
+                  "image": "assets/images/fact_icon.png",
+                  "Cards": [
+                    {
+                      "name": "Wortarten",
+                      "image": "assets/images/fact_icon.png",
+                      "Stack": [
+                        {
+                          "cardName": "Was sind Pronomen?",
+                          "cardType": "Text",
+                          "cardDesc": "Eine kurze Einführung in Pronomen in der deutschen Grammatik.",
+                          "cardImg": "assets/images/fact_icon.png",
+                          "Quiz": [
+                            {
+                              "cardName": "Frage 1",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was sind Pronomen?",
+                                "cardQuizOptions": {
+                                  "a": "Pronomen sind Wörter, die Tiere und Dinge beschreiben.",
+                                  "b": "Pronomen sind Wörter, die Nomen ersetzen oder auf sie verweisen."
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Richtig! Pronomen sind Wörter, die Nomen ersetzen oder auf sie verweisen."
+                              },
+                              "cardImg": "URL_FRAGE_1_BILD.png"
+                            },
+                            {
+                              "cardName": "Frage 2",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was ist ein Beispiel für ein Personalpronomen?",
+                                "cardQuizOptions": {
+                                  "a": "Haus",
+                                  "b": "Er"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Korrekt! 'Er' ist ein Beispiel für ein Personalpronomen."
+                              },
+                              "cardImg": "URL_FRAGE_2_BILD.png"
+                            },
+                            {
+                              "cardName": "Frage 3",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was ist der Unterschied zwischen einem Demonstrativpronomen und einem Possessivpronomen?",
+                                "cardQuizOptions": {
+                                  "a": "Demonstrativpronomen zeigen auf etwas hin, während Possessivpronomen den Besitz ausdrücken.",
+                                  "b": "Es gibt keinen Unterschied zwischen ihnen."
+                                },
+                                "cardQuizSolution": "a",
+                                "cardQuizExplanation": "Gut gemacht! Demonstrativpronomen zeigen auf etwas hin, während Possessivpronomen den Besitz ausdrücken."
+                              },
+                              "cardImg": "URL_FRAGE_3_BILD.png"
+                            }
+                          ]
+                        },
+                        {
+                          "cardName": "Was sind Verben?",
+                          "cardType": "Text",
+                          "cardDesc": "Eine kurze Einführung in Verben in der deutschen Grammatik.",
+                          "cardImg": "assets/images/fact_icon.png",
+                          "Quiz": [
+                            {
+                              "cardName": "Frage 1",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was sind Verben?",
+                                "cardQuizOptions": {
+                                  "a": "Verben sind Wörter, die Personen und Orte beschreiben.",
+                                  "b": "Verben sind Wörter, die Handlungen, Zustände oder Vorgänge ausdrücken."
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Richtig! Verben sind Wörter, die Handlungen, Zustände oder Vorgänge ausdrücken."
+                              },
+                              "cardImg": "URL_FRAGE_1_BILD.png"
+                            },
+                            {
+                              "cardName": "Frage 2",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was ist ein Beispiel für ein starkes Verb im Deutschen?",
+                                "cardQuizOptions": {
+                                  "a": "Spielen",
+                                  "b": "Lesen"
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Korrekt! 'Lesen' ist ein Beispiel für ein starkes Verb im Deutschen."
+                              },
+                              "cardImg": "URL_FRAGE_2_BILD.png"
+                            },
+                            {
+                              "cardName": "Frage 3",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Wie werden Verben in der imperativen Form konjugiert?",
+                                "cardQuizOptions": {
+                                  "a": "In der imperativen Form werden Verben in der dritten Person Singular konjugiert.",
+                                  "b": "In der imperativen Form werden Verben in der Grundform (Infinitiv) ohne das Subjekt konjugiert."
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Gut gemacht! In der imperativen Form werden Verben in der Grundform (Infinitiv) ohne das Subjekt konjugiert."
+                              },
+                              "cardImg": "URL_FRAGE_3_BILD.png"
+                            }
+                          ]
+                        },
+                        {
+                          "cardName": "Was sind Adjektive?",
+                          "cardType": "Text",
+                          "cardDesc": "Eine kurze Einführung in Adjektive in der deutschen Grammatik.",
+                          "cardImg": "assets/images/fact_icon.png",
+                          "Quiz": [
+                            {
+                              "cardName": "Frage 1",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was sind Adjektive?",
+                                "cardQuizOptions": {
+                                  "a": "Adjektive sind Wörter, die Handlungen beschreiben.",
+                                  "b": "Adjektive sind Wörter, die Eigenschaften von Nomen beschreiben."
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Richtig! Adjektive sind Wörter, die Eigenschaften von Nomen beschreiben."
+                              },
+                              "cardImg": "URL_FRAGE_1_BILD.png"
+                            },
+                            {
+                              "cardName": "Frage 2",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was ist ein Steigerungsgrad von Adjektiven?",
+                                "cardQuizOptions": {
+                                  "a": "Der Steigerungsgrad von Adjektiven beschreibt, wie oft die Eigenschaft vorhanden ist.",
+                                  "b": "Der Steigerungsgrad von Adjektiven beschreibt die Intensität oder den Vergleich von Eigenschaften."
+                                },
+                                "cardQuizSolution": "b",
+                                "cardQuizExplanation": "Korrekt! Der Steigerungsgrad von Adjektiven beschreibt die Intensität oder den Vergleich von Eigenschaften."
+                              },
+                              "cardImg": "URL_FRAGE_2_BILD.png"
+                            },
+                            {
+                              "cardName": "Frage 3",
+                              "cardType": "Question",
+                              "cardQuiz": {
+                                "cardQuizQuestion": "Was ist ein Beispiel für ein attributives Adjektiv?",
+                                "cardQuizOptions": {
+                                  "a": "Schnell rennend",
+                                  "b": "Schnell rennt"
+                                },
+                                "cardQuizSolution": "a",
+                                "cardQuizExplanation": "Gut gemacht! 'Schnell rennend' ist ein Beispiel für ein attributives Adjektiv."
+                              },
+                              "cardImg": "URL_FRAGE_3_BILD.png"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "fks": {
+      "Content": {
+        "Collection": {
+          "Libraries": [
+            {
+              "name": "Reglemente / Handb\u00fccher / Richtlinien",
+              "image": "assets/images/FKS/Handbuecher.png",
+              "Cases": [
+                {
+                  "name": "ABC-Eins\u00e4tze",
+                  "image": "assets/images/FKS/ABC-Eins\u00e4tze.png",
+                  "Books": [
+                    {
+                      "name": "Handbuch f\u00fcr ABC-Eins\u00e4tze",
+                      "image": "assets/images/FKS/ABC Handbuch DE.png"
+                    },
+                    {
+                      "name": "Faltkarten f\u00fcr ABC-Eins\u00e4tze",
+                      "image": "assets/images/FKS/ABCFaltkartenDE.png"
+                    }
+                  ]
+                },
+                {
+                  "name": "Basiswissen",
+                  "image": "assets/images/FKS/Basiswissen DE.png",
+                  "Books": [
+                    {
+                      "name": "Basiswissen",
+                      "image": "assets/images/FKS/Reglement Basiswissen DE.png",
+                      "Browse": {
+                        "Boxes": [
+                          {
+                            "name": "1 Allgemeines",
+                            "image": "https://cdn-icons-png.flaticon.com/512/3124/3124925.png",
+                            "Decks": [
+                              {
+                                "name": "1.1 Erwartungen an den Einsatzleiter",
+                                "image": "https://cdn-icons-png.flaticon.com/512/9483/9483192.png",
+                                "Cards": []
+                              },
+                              {
+                                "name": "1.2 Kompetenzen",
+                                "image": "https://cdn-icons-png.flaticon.com/512/2631/2631384.png",
+                                "Cards": [
+                                  {
+                                    "name": "1.2.1 Selbstkompetenz",
+                                    "image": "https://cdn-icons-png.flaticon.com/512/2452/2452206.png"
+                                  },
+                                  {
+                                    "name": "1.2.2 Fachkompetenz",
+                                    "image": "https://cdn-icons-png.flaticon.com/512/3316/3316456.png"
+                                  },
+                                  {
+                                    "name": "1.2.3 Sozialkompetenz",
+                                    "image": "https://cdn-icons-png.flaticon.com/512/6679/6679650.png"
+                                  }
+                                ]
+                              },
+                              {"name": "1.3 Löschwasser",
+                                "image":  "https://media.istockphoto.com/id/627149672/de/vektor/bluttropfen-symbol.jpg?s=612x612&w=0&k=20&c=rb34X52v0MeMdnZJy-kcbOSD4JtMW_PxAkFnBQytvzw=",
+                                "Cards": [
+                                  {
+                                    "name": "Begriffe",
+                                    "image": "https://png.pngtree.com/png-vector/20190514/ourmid/pngtree-def-file-format-icon-design-png-image_1040746.jpg",
+                                    "Stack": [
+                                      {
+                                        "cardName": "Durchflussmengen",
+                                        "cardType": "Begriff",
+                                        "cardDesc": "Leistung der Versorgung, \u00fcblicherweise in Liter pro Minute angegeben.",
+                                        "cardImg": "assets/images/FKS/22edcd54-b2a1-4e6c-b1da-392f39b783b7.webp",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "Frage 1",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was ist das Hauptziel der Brandfallsteuerung in einem Wasserversorgungssystem?",
+                                              "cardQuizOptions": {
+                                                "a": "Reduzierung des Wasserverbrauchs",
+                                                "b": "Aktivierung und Steuerung der L\u00f6schreserve"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Das Hauptziel der Brandfallsteuerung ist die Aktivierung und Steuerung der ben\u00f6tigten L\u00f6schreserve sowie weiterer Ma\u00dfnahmen."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 2",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was ist der prim\u00e4re Zweck der Brauchreserve in einem Wasserversorgungssystem?",
+                                              "cardQuizOptions": {
+                                                "a": "Deckung von Spitzenverbr\u00e4uchen",
+                                                "b": "Speicherung von Trinkwasser"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Die Brauchreserve dient der Wassermenge im Reservoir f\u00fcr den normalen Verbrauch und der Spitzenabdeckung."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 3",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wie werden Durchflussmengen in einem Wasserversorgungssystem typischerweise angegeben?",
+                                              "cardQuizOptions": {
+                                                "a": "In Kubikmetern pro Stunde",
+                                                "b": "In Litern pro Minute"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Durchflussmengen in einem Wasserversorgungssystem werden \u00fcblicherweise in Litern pro Minute angegeben."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 4",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wodurch sind Druckzonen in einem Wasserversorgungssystem charakterisiert?",
+                                              "cardQuizOptions": {
+                                                "a": "Durch unterschiedliche Wasserqualit\u00e4t",
+                                                "b": "Durch unterschiedlichen Wasserdruck"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Druckzonen im Verteilsystem der Wasserversorgung sind durch unterschiedlichen Wasserdruck charakterisiert."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 5",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wof\u00fcr steht das K\u00fcrzel 'GWP' in Bezug auf die Wasserversorgung?",
+                                              "cardQuizOptions": {
+                                                "a": "Globales Wasserschutzprotokoll",
+                                                "b": "Generelle Wasserversorgungsplanung"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "GWP steht f\u00fcr 'Generelle Wasserversorgungsplanung'."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "cardName": "Hydrant",
+                                        "cardType": "Begriff",
+                                        "cardDesc": "Wasserentnahmearmatur zur Brandbek\u00e4mpfung.",
+                                        "cardImg": "assets/images/FKS/346b7878-e6fa-4e61-97e5-68c436a07ad5.webp"
+                                      },
+                                      {
+                                        "cardName": "L\u00f6schwasser",
+                                        "cardType": "Begriff",
+                                        "cardDesc": "Wasser, das zum Bek\u00e4mpfen von Br\u00e4nden dient.",
+                                        "cardImg": "assets/images/FKS/0e485914-d742-4e4f-90b0-9463bd220db5.webp"
+                                      },
+                                      {
+                                        "cardName": "Seewasserwerke",
+                                        "cardType": "Begriff",
+                                        "cardDesc": "Anlagen zur Aufbereitung von Seewasser zu Trinkwasser.",
+                                        "cardImg": "assets/images/FKS/8accdc4e-2dad-4fce-9bf0-113abae1ecc6.webp"
+                                      },
+                                      {
+                                        "cardName": "Reservoir",
+                                        "cardType": "Begriff",
+                                        "cardDesc": "Speicher f\u00fcr Trink-, Brauch- und L\u00f6schwasser.",
+                                        "cardImg": "assets/images/FKS/4c01f33f-ae8e-40bb-a622-5da0d5b55825.webp"
+                                      }
+                                    ]
+                                  }
+                                ]}
+                            ]
+                          },
+                          {
+                            "name": "2 Einsatzphasen",
+                            "image": "https://cdn-icons-png.flaticon.com/512/1138/1138051.png",
+                            "Decks": [
+                              {
+                                "name": "2.1 Chronologie des Einsatzes",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                              },
+                              {
+                                "name": "2.2 Ereignis",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                              },
+                              {
+                                "name": "2.3 Alarmierung",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                  {
+                                    "name": "2.3.1 Annahme des Hilferufes (Eingang des Alarms)",
+                                    "image": "assets/images/cards.png"
+                                  },
+                                  {
+                                    "name": "2.3.2 Bearbeitung des Hilferufes (Bearbeitung des Alarms)",
+                                    "image": "assets/images/cards.png"
+                                  },
+                                  {
+                                    "name": "2.3.3 Aufgebot der Ressourcen und Mittel (\u00dcbermittlung des Alarms)",
+                                    "image": "assets/images/cards.png"
+                                  },
+                                  {
+                                    "name": "2.3.4 Informationsaustausch",
+                                    "image": "assets/images/cards.png"
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "2.4 Anfahrt",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                  {
+                                    "name": "2.4.1 Dringlichkeit",
+                                    "image": "assets/images/cards.png"
+                                  },
+                                  {
+                                    "name": "2.4.2 Ausr\u00fccken",
+                                    "image": "assets/images/cards.png"
+                                  },
+                                  {
+                                    "name": "2.4.3 Einweisung",
+                                    "image": "assets/images/cards.png"
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "2.5 Einsatz",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                  {
+                                    "name": "2.5.1 Notwendige Elemente der Einsatzf\u00fchrung",
+                                    "image": "assets/images/cards.png"
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "2.6 Einsatzende",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "3 F\u00fchrungsrhythmus",
+                            "image": "https://cdn-icons-png.flaticon.com/512/860/860472.png",
+                            "Decks": [
+                              {
+                                "name": "3.1 F\u00fchrungsablauf",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                              },
+                              {
+                                "name": "3.2 F\u00fchrungsspirale",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                              },
+                              {
+                                "name": "3.3 Feststellen",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                              },
+                              {
+                                "name": "3.4 Beurteilen",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                              },
+                              {
+                                "name": "3.5 Entscheiden",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                  {
+                                    "name": "3.5.1 Vom entscheidungsfreudigen Macher zum Ereignismanager",
+                                    "image": "assets/images/cards.png"
+                                  },
+                                  {
+                                    "name": "3.5.2 Beispiel der Aufteilung der Verantwortlichkeiten",
+                                    "image": "assets/images/cards.png"
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "3.6 Handeln",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                  {
+                                    "name": "3.6.1 Der Befehl",
+                                    "image": "assets/images/cards.png"
+                                  },
+                                  {
+                                    "name": "3.6.2 Die Befehlsgebung",
+                                    "image": "assets/images/cards.png"
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "3.7 Kontrollieren",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "4 Geb\u00e4udebrand",
+                            "image": "https://cdn-icons-png.flaticon.com/512/3433/3433450.png",
+                            "Decks": [
+                              {
+                                "name": "4.1 Grunds\u00e4tze bei Geb\u00e4udebr\u00e4nden",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                              },
+                              {
+                                "name": "4.2 Chancen- und Risikenanalyse",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                              },
+                              {
+                                "name": "4.3 Orts- und Geb\u00e4udekenntnisse",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                              },
+                              {
+                                "name": "4.4 Zweck",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                  {
+                                    "name": "4.4.1 Einsatz",
+                                    "image": "assets/images/cards.png"
+                                  },
+                                  {
+                                    "name": "4.4.2 \u00dcbungsvorbereitung",
+                                    "image": "assets/images/cards.png"
+                                  },
+                                  {
+                                    "name": "4.4.3 Einsatzplanung",
+                                    "image": "assets/images/cards.png"
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "4.5 Einsatzrelevante Punkte bei Geb\u00e4udebr\u00e4nden",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                  {
+                                    "name": "4.5.1 Rauch- und W\u00e4rmeentwicklung",
+                                    "image": "assets/images/cards.png"
+                                  },
+                                  {
+                                    "name": "4.5.2 Verhalten von Geb\u00e4udeteilen",
+                                    "image": "assets/images/cards.png"
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "4.6 Beurteilung mit der Volumenmethode",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                              },
+                              {
+                                "name": "4.7 Brandschutz f\u00fcr den Einsatzleiter",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                  {
+                                    "name": "4.7.1 Brandschutzvorschriften",
+                                    "image": "assets/images/cards.png"
+                                  },
+                                  {
+                                    "name": "4.7.2 Baulicher Brandschutz",
+                                    "image": "assets/images/cards.png"
+                                  },
+                                  {
+                                    "name": "4.7.3 Technischer Brandschutz",
+                                    "image": "assets/images/cards.png"
+                                  },
+                                  {
+                                    "name": "4.7.4 Organisatorischer Brandschutz",
+                                    "image": "assets/images/cards.png"
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "4.8 Baukunde",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                  {
+                                    "name": "4.8.1 Geb\u00e4udekonstruktion",
+                                    "image": "assets/images/cards.png"
+                                  },
+                                  {
+                                    "name": "4.8.2 Tragwerke",
+                                    "image": "assets/images/cards.png"
+                                  },
+                                  {
+                                    "name": "4.8.3 Brandmauern",
+                                    "image": "assets/images/cards.png"
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "4.9 L\u00f6schwasserversorgung",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "5 Ausbildung",
+                            "image": "https://cdn-icons-png.flaticon.com/512/4116/4116265.png",
+                            "Decks": [
+                              {
+                                "name": "5.1 Grunds\u00e4tzliches",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                  {
+                                    "name": "5.1.1 Herausforderungen im Einsatz",
+                                    "image": "assets/images/cards.png"
+                                  },
+                                  {
+                                    "name": "5.1.2 Herausforderungen in der Ausbildung",
+                                    "image": "assets/images/cards.png"
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "5.2 F\u00fchrung",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                  {
+                                    "name": "5.2.1 F\u00fchrungstraining",
+                                    "image": "assets/images/cards.png"
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "5.3 Entscheidungsf\u00e4higkeit",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                              },
+                              {
+                                "name": "5.4 Ausbildung Einsatzleiter",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                  {
+                                    "name": "5.4.1 Methodik",
+                                    "image": "assets/images/cards.png"
+                                  },
+                                  {
+                                    "name": "5.4.2 Didaktik",
+                                    "image": "assets/images/cards.png"
+                                  },
+                                  {
+                                    "name": "5.4.3 Hilfsmittel",
+                                    "image": "assets/images/cards.png"
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "5.5 \u00dcbungsvorbereitung",
+                                "image": "assets/images/decks.png",
+                                "Cards": []
+                              },
+                              {
+                                "name": "5.6 Erfolgskontrolle/Bilanz",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                  {
+                                    "name": "5.6.1 Ablauf \u00dcbungsbesprechung",
+                                    "image": "assets/images/cards.png"
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "5.7 Markierungsm\u00f6glichkeiten und grafische Darstellung",
+                                "image": "assets/images/decks.png",
+                                "Cards": [
+                                  {
+                                    "name": "5.7.1 Symbole zur Markierung",
+                                    "image": "assets/images/cards.png"
+                                  },
+                                  {
+                                    "name": "5.7.2 Beispiel Geb\u00e4udebrand",
+                                    "image": "assets/images/cards.png"
+                                  },
+                                  {
+                                    "name": "Beispiel Wasserschaden",
+                                    "image": "assets/images/cards.png"
+                                  },
+                                  {
+                                    "name": "Beispiel Chemieereignis",
+                                    "image": "assets/images/cards.png"
+                                  },
+                                  {
+                                    "name": "Beispiel Unfall",
+                                    "image": "assets/images/cards.png"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "Gesch\u00e4ftsberichte",
+                  "image": "assets/images/FKS/FKS_Geschaeftsberichte.png",
+                  "Books": [
+                    {
+                      "name": "FKS Gesch\u00e4ftsbericht 2022",
+                      "image": "assets/images/FKS/FKS_Geschaeftsbericht_2022_de.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "grace": {
+      "Content": {
+        "Collection": {
+          "Libraries": [
+            {
+              "name": "St. Moritz",
+              "image": "assets/images/Grace/st. moritz.png",
+              "Cases": [
+                {
+                  "name": "Urlaub",
+                  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ente_auf_Urlaub.jpg",
+                  "Books": [
+                    {
+                      "name": "Hotels",
+                      "image": "https://www.fairmont.de/assets/0/104/8133/8137/8139/8146/19dc0f85-864a-4dde-8ddc-380c2871f96c.jpg",
+                      "Browse": {
+                        "Boxes": [
+                          {
+                            "name": "Hotel Grace",
+                            "image": "assets/images/Grace/hotel-grace-logo.png",
+                            "Decks": [
+                              {
+                                "name": "Tourismus Infos",
+                                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_informations.svg/1024px-Logo_informations.svg.png",
+                                "Cards": [
+                                  {
+                                    "name": "St. Moritz",
+                                    "image": "assets/images/Grace/st. moritz.png",
+                                    "Stack": [
+                                      {
+                                        "cardName": "St. Moritz",
+                                        "cardType": "Aktivit\u00e4t",
+                                        "cardDesc": "St. Moritz ist ein luxuriöser alpiner Ferienort im schweizerischen Tal Engadin.",
+                                        "cardImg": "assets/images/Grace/st. moritz.png",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "Frage 1",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "In welchem schweizerischen Kanton befindet sich St. Moritz?",
+                                              "cardQuizOptions": {
+                                                "a": "Bern",
+                                                "b": "Graub\u00fcnden"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "St. Moritz befindet sich im Kanton Graub\u00fcnden in der Schweiz."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 2",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welche Art von Tourismus ist in St. Moritz besonders bekannt?",
+                                              "cardQuizOptions": {
+                                                "a": "Strandtourismus",
+                                                "b": "Wintersporttourismus"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "St. Moritz ist besonders f\u00fcr den Wintersporttourismus bekannt, insbesondere f\u00fcr Skifahren und Snowboarden."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 3",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welche der folgenden Veranstaltungen findet regelm\u00e4\u00dfig in St. Moritz statt?",
+                                              "cardQuizOptions": {
+                                                "a": "Internationales Filmfestival",
+                                                "b": "Polo on Snow"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Das 'Polo on Snow' ist eine bekannte Veranstaltung, die regelm\u00e4\u00dfig in St. Moritz stattfindet und internationale Polo-Spieler anzieht."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 4",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was macht St. Moritz zu einem beliebten Reiseziel f\u00fcr Reiche und Prominente?",
+                                              "cardQuizOptions": {
+                                                "a": "G\u00fcnstige Preise",
+                                                "b": "Exklusive Luxusresorts und -hotels"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "St. Moritz ist bekannt f\u00fcr seine exklusiven Luxusresorts und -hotels, die es zu einem begehrten Reiseziel f\u00fcr Reiche und Prominente machen."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 5",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welche Sprache wird in St. Moritz haupts\u00e4chlich gesprochen?",
+                                              "cardQuizOptions": {
+                                                "a": "Franz\u00f6sisch",
+                                                "b": "R\u00e4toromanisch und Deutsch"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "In St. Moritz werden haupts\u00e4chlich R\u00e4toromanisch und Deutsch gesprochen, aufgrund seiner Lage im Kanton Graub\u00fcnden."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "cardName": "Polo on Snow",
+                                        "cardType": "Veranstaltung",
+                                        "cardDesc": "Das 'Polo on Snow' ist eine exklusive Veranstaltung in St. Moritz, bei der internationale Polo-Spieler auf dem gefrorenen St. Moritzersee Polo spielen.",
+                                        "cardImg": "assets/images/Grace/polo on snow.jpg"
+                                      },
+                                      {
+                                        "cardName": "Luxusresorts",
+                                        "cardType": "Unterkunft",
+                                        "cardDesc": "St. Moritz ist ber\u00fchmt f\u00fcr seine luxuri\u00f6sen Resorts und Hotels, die G\u00e4sten einen erstklassigen Service und Komfort bieten.",
+                                        "cardImg": "assets/images/Grace/hotel grace luxus.jpg"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Attraktionen",
+                                    "image": "https://cdn.getyourguide.com/img/tour/881684b695add9d7.jpeg/146.jpg",
+                                    "Stack": [
+                                      {
+                                        "cardName": "Wintersport",
+                                        "cardType": "Sportangebot",
+                                        "cardDesc": "St. Moritz ist ein beliebtes Ziel für Wintersportaktivitäten wie Skifahren, Snowboarden, Eislaufen und Curling, dank seiner erstklassigen Pisten und Eisbahnen.",
+                                        "cardImg": "assets/images/Grace/wintersport.png"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Leadership Training",
+                                "image": "https://media.istockphoto.com/id/1305960821/de/vektor/coaching-rgb-farbsymbol.jpg?s=612x612&w=0&k=20&c=bXWF6e4V8lTQ7Tyl-uENalQcsLesPDufYeVIMPMpgbE=",
+                                "Cards": [
+                                  {
+                                    "name": "Organizational Culture",
+                                    "image": "assets/images/Grace/organizational_culture.webp",
+                                    "Stack": [
+                                      {
+                                        "cardName": "Organizational Culture",
+                                        "cardType": "InfoCard",
+                                        "cardDesc": "Organizational culture is like the personality and soul of our company. It's what makes us unique. It is our shared set of values, beliefs, and behaviors that define how we operate.",
+                                        "cardImg": "assets/images/Grace/organizational_culture.webp",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "Frage 1",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "What is Organizational Culture for us?",
+                                              "cardQuizOptions": {
+                                                "a": "The modern and pleasing interior design of our company.",
+                                                "b": "The personality of our brand, reflecting our values and guiding our behavior."
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Hotel Grace understands organizational culture as the personality of our brand, reflecting our values and guiding our behavior."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "cardName": "The Vibe",
+                                        "cardType": "InfoCard",
+                                        "cardDesc": "Imagine organizational culture as the \"vibe\" or atmosphere in your workplace. It includes the beliefs, values, and how people interact within an organization. It sets the tone for how work is done and how employees relate to each other.",
+                                        "cardImg": "assets/images/Grace/organizational_culture.webp"
+                                      },
+                                      {
+                                        "cardName": "Belonging and Purpose",
+                                        "cardType": "InfoCard",
+                                        "cardDesc": "A strong culture can create a sense of belonging and purpose among employees and a unique, unforgettable experience for our clients. It comprises the guiding principles for every interaction, both within our team and with our business partners.",
+                                        "cardImg": "assets/images/Grace/organizational_culture.webp"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ibk-snow": {
+      "Content": {
+        "Collection": {
+          "Libraries": [
+            {
+              "name": "Snowboarden",
+              "image": "https://ridestoremagazine.imgix.net/http%3A%2F%2Fwordpress-604950-2562265.cloudwaysapps.com%2Fwp-content%2Fuploads%2F2023%2F02%2Fjoh06822.jpg?ixlib=gatsbySourceUrl-1.7.5&auto=format&q=70&usm=15&w=1600&h=2000&s=6a9c75ddcbafb996d9b046a010ae3486",
+              "Cases": [
+                {
+                  "name": "Grundlagen",
+                  "image": "assets/images/IBK-Snow/basics.png",
+                  "Books": [
+                    {
+                      "name": "Einf\u00fchrung ins Snowboarden",
+                      "image": "https://ik.imagekit.io/guidle/tr:h-500,c-at_least,dpr-2.625/c/d9/80/cd9809e2d2bad60f7648718363aa13915d2eb25b_667349135.jpg",
+                      "Browse": {
+                        "Boxes": [
+                          {
+                            "name": "IBK-Snow",
+                            "image": "assets/images/IBK-Snow/600-resize-of-Logo IBK-Snow.webp",
+                            "Decks": [
+                              {
+                                "name": "Theorie",
+                                "image": "https://static.thenounproject.com/png/3812646-200.png",
+                                "Cards": [
+                                  {
+                                    "name": "Grundbegriffe",
+                                    "image": "https://static.thenounproject.com/png/4641475-200.png",
+                                    "Stack": [
+                                      {
+                                        "cardName": "Snowboarden",
+                                        "cardType": "Sport",
+                                        "cardDesc": "Snowboarden ist eine beliebte Wintersportart, bei der die Teilnehmer auf einem Snowboard stehen und die Abh\u00e4nge hinunterfahren. Es kombiniert Elemente des Surfens und Skateboardens auf Schnee.",
+                                        "cardImg": "assets/images/IBK-Snow/1024-resize-of-69262f98-a2cb-4854-a3ca-a256bbb4e09c..webp",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "Frage 1",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was ist der Ursprung des Namens 'Snurfer' f\u00fcr das erste Snowboard?",
+                                              "cardQuizOptions": {
+                                                "a": "Eine Kombination aus 'Snow' und 'Surf'",
+                                                "b": "Die Abk\u00fcrzung f\u00fcr 'Snow Rider'"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Der Name 'Snurfer' f\u00fcr das erste Snowboard stammt von der Kombination der W\u00f6rter 'Snow' (Schnee) und 'Surf' (Surfen), da es Elemente beider Sportarten vereinte."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 2",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wer wird in der Geschichte oft f\u00fcr die Erfindung des Snowboards genannt?",
+                                              "cardQuizOptions": {
+                                                "a": "Sherman Poppen",
+                                                "b": "Sherman Skier"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Sherman Poppen wird oft f\u00fcr die Erfindung des Snowboards verantwortlich gemacht, da er das erste 'Snurfer'-Board entwickelte."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 3",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was war urspr\u00fcnglich der Zweck der Erfindung des Snowboards?",
+                                              "cardQuizOptions": {
+                                                "a": "Ein Spa\u00dfger\u00e4t f\u00fcr Kinder im Schnee",
+                                                "b": "Eine Alternative zum Skifahren f\u00fcr Erwachsene"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Die erste Erfindung des Snowboards durch Sherman Poppen hatte den urspr\u00fcnglichen Zweck, ein unterhaltsames Ger\u00e4t f\u00fcr seine T\u00f6chter im Schnee zu schaffen."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 4",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welchen Namen gab Sherman Poppen seiner Erfindung?",
+                                              "cardQuizOptions": {
+                                                "a": "Snowy Surfer",
+                                                "b": "Snurfer"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Sherman Poppen nannte seine Erfindung 'Snurfer', eine Kombination aus den W\u00f6rtern 'Snow' und 'Surf'."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 5",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Warum wird das erste Snowboard oft als 'Snurfer' bezeichnet?",
+                                              "cardQuizOptions": {
+                                                "a": "Weil es wie ein Surfbrett aussah",
+                                                "b": "Weil es sich auf dem Schnee surfen lie\u00df"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Das erste Snowboard wurde 'Snurfer' genannt, weil es sich auf dem Schnee surfen lie\u00df und Elemente des Surfens enthielt."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "cardName": "Snowboard",
+                                        "cardType": "Ausr\u00fcstung",
+                                        "cardDesc": "Ein Snowboard ist das Hauptinstrument beim Snowboarden. Es ist ein flaches Brett mit Bindungen, auf dem der Fahrer steht und sich damit fortbewegt, indem er sein Gewicht verlagert.",
+                                        "cardImg": "assets/images/IBK-Snow/1024-resize-of-69262f98-a2cb-4854-a3ca-a256bbb4e09c..webp"
+                                      },
+                                      {
+                                        "cardName": "Halfpipe",
+                                        "cardType": "Fahrtstrecke",
+                                        "cardDesc": "Eine Halfpipe ist eine speziell geformte Schneer\u00f6hre oder Rampe, die von Snowboardern genutzt wird, um akrobatische Tricks und Spr\u00fcnge auszuf\u00fchren. Halfpipes sind Teil von Snowparks.",
+                                        "cardImg": "assets/images/IBK-Snow/1024-resize-of-69262f98-a2cb-4854-a3ca-a256bbb4e09c..webp"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Snowboard-Ausr\u00fcstung",
+                      "image": "assets/images/Snowboarding/equipment.jpg"
+                    },
+                    {
+                      "name": "Snowboard-Techniken",
+                      "image": "assets/images/Snowboarding/techniques.jpg"
+                    }
+                  ]
+                },
+                {
+                  "name": "Fortgeschrittene",
+                  "image": "assets/images/Snowboarding/advanced.jpg",
+                  "Books": [
+                    {
+                      "name": "Freestyle-Snowboarden",
+                      "image": "assets/images/Snowboarding/freestyle.jpg"
+                    },
+                    {
+                      "name": "Snowboard-Wettbewerbe",
+                      "image": "assets/images/Snowboarding/competitions.jpg"
+                    },
+                    {
+                      "name": "Extrem-Snowboarden",
+                      "image": "assets/images/Snowboarding/extreme.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}
