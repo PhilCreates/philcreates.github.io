@@ -439,7 +439,6 @@
                                         "cardType": "Charakterentwicklung",
                                         "cardDesc": "Gretchens Trag\u00f6die ist ein Resultat ihrer sozialen Stellung, ihrer Naivit\u00e4t und ihrer unbedingten Liebe zu Faust. Nachdem sie ein uneheliches Kind zur Welt bringt und dieses t\u00f6tet, wird sie von der Gesellschaft versto\u00dfen und schlie\u00dflich zum Tode verurteilt.",
                                         "cardImg": "assets/images/def/Gretchens Trag\u00f6die (Charakterentwicklung).png"
-<<<<<<< HEAD
                                       }
                                     ]
                                   }
@@ -1404,94 +1403,8 @@
                                             "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
                                           }
                                         ]
-=======
->>>>>>> 9741dafd4e7accefbc8b3cf940d2020d87135308
                                       }
                                     ]
-                                  }
-                                ]
-                              },
-                              {
-                                "name": "Faust II",
-                                "image": "assets/images/decks0.png",
-                                "Cards": [
-                                  {
-                                    "name": "Goethes Weltbild in Faust II",
-                                    "image": "assets/images/cards0.png",
-                                    "Stack": [
-                                      {
-                                        "cardName": "Goethes Konzept der 'Dichtung und Wahrheit' in Faust II",
-                                        "cardType": "Lekt\u00fcre - Faust II",
-                                        "cardDesc": "Goethe betrachtete Kunst nicht als blo\u00dfe Nachahmung der Natur, sondern als Ausdruck der Wahrheit. In Faust II zeigt er dies durch die Darstellung von Fausts Suche nach tieferer Erkenntnis und Wahrheit, die letztlich zu seiner Erl\u00f6sung f\u00fchrt. Dieses Konzept wird auch als 'Dichtung und Wahrheit' bezeichnet.",
-                                        "cardImg": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-97s5TkJ1dh4pHW0leQ05gIZh/user-JmCM7A2lbrDznyk6QanDxD6n/img-jhAMmzRUHdx5lUJT0t4c9o50.png?st=2024-02-04T14%3A39%3A26Z&se=2024-02-04T16%3A39%3A26Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-02-04T02%3A49%3A15Z&ske=2024-02-05T02%3A49%3A15Z&sks=b&skv=2021-08-06&sig=iWDGNVtJLQMjaurcUx3yGlPLKp3cxz8cD5AqDy7gLpY%3D",
-                                        "Quiz": [
-                                          {
-                                            "cardName": "Homunculus",
-                                            "cardType": "Faust II",
-                                            "cardQuiz": {
-                                              "cardQuizQuestion": "Welche Rolle spielt der Homunculus in Bezug auf Goethes Konzept der 'Dichtung und Wahrheit'?",
-                                              "cardQuizOptions": {
-                                                "a": "Er repr\u00e4sentiert die K\u00fcnstlichkeit und Unvollkommenheit der menschlich geschaffenen Wahrheit.",
-                                                "b": "Er repr\u00e4sentiert die absolute Wahrheit, die durch g\u00f6ttliche Sch\u00f6pfung erreicht wird."
-                                              },
-                                              "cardQuizSolution": "a",
-                                              "cardQuizExplanation": "Homunculus stellt die menschliche Sch\u00f6pfung und daher die Unvollkommenheit und K\u00fcnstlichkeit gegen\u00fcber der nat\u00fcrlichen Wahrheit dar."
-                                            },
-                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                                          },
-                                          {
-                                            "cardName": "Helenenszene",
-                                            "cardType": "Faust II",
-                                            "cardQuiz": {
-                                              "cardQuizQuestion": "Was symbolisiert die Helenenszene in Bezug auf Goethes Konzept von 'Dichtung und Wahrheit'?",
-                                              "cardQuizOptions": {
-                                                "a": "Die Vereinigung von Dichtung und Wahrheit durch die Zusammenf\u00fchrung von Antike und Moderne.",
-                                                "b": "Die Unvereinbarkeit von Dichtung und Wahrheit, da die Antike und die Moderne unvers\u00f6hnliche Gegens\u00e4tze darstellen."
-                                              },
-                                              "cardQuizSolution": "a",
-                                              "cardQuizExplanation": "In der Helenenszene vers\u00f6hnt Goethe Antike und Moderne, was auf eine Verschmelzung von Dichtung (Idealem) und Wahrheit (Realit\u00e4t) hindeutet."
-                                            },
-                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                                          },
-                                          {
-                                            "cardName": "Erl\u00f6sungsmotiv",
-                                            "cardType": "Faust II",
-                                            "cardQuiz": {
-                                              "cardQuizQuestion": "Wie interpretiert Goethe das Erl\u00f6sungsmotiv im Kontext von 'Dichtung und Wahrheit'?",
-                                              "cardQuizOptions": {
-                                                "a": "Faust kann nur durch die Anerkennung der absoluten Wahrheit erl\u00f6st werden.",
-                                                "b": "Die Erl\u00f6sung wird durch die Harmonie von Dichtung und Wahrheit erreicht."
-                                              },
-                                              "cardQuizSolution": "b",
-                                              "cardQuizExplanation": "Goethe zeigt, dass die Erl\u00f6sung nicht durch die Akzeptanz einer einzigen absoluten Wahrheit, sondern durch das Gleichgewicht und die Harmonie von Dichtung und Wahrheit erreicht wird."
-                                            },
-                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                                          }
-                                        ]
-                                      },
-                                      {
-                                        "cardName": "Goethes Darstellung des Ewigen Weiblichen in Faust II",
-                                        "cardType": "Lekt\u00fcre - Faust II",
-                                        "cardDesc": "Goethe stellt das 'Ewige Weibliche' als zentrale Kraft dar, die Faust zur Erl\u00f6sung f\u00fchrt. Dieses Konzept symbolisiert nicht nur Sch\u00f6nheit und Anziehungskraft, sondern auch moralische Reinheit und spirituelle Erleuchtung. Die Darstellung des Ewigen Weiblichen zeigt Goethes Auffassung von der Rolle der Frau in der Gesellschaft und der menschlichen Existenz.",
-                                        "cardImg": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-97s5TkJ1dh4pHW0leQ05gIZh/user-JmCM7A2lbrDznyk6QanDxD6n/img-eLDYgo12bHKpBozvuVg0jURU.png?st=2024-02-04T14%3A39%3A36Z&se=2024-02-04T16%3A39%3A36Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-02-04T06%3A17%3A35Z&ske=2024-02-05T06%3A17%3A35Z&sks=b&skv=2021-08-06&sig=xn8DuXKRJaw2%2BAe0xzLUg5MJnMP6/NEYr%2B9IRPixv08%3D"
-                                      },
-                                      {
-                                        "cardName": "Goethes Verst\u00e4ndnis von 'Welt' in Faust II",
-                                        "cardType": "Lekt\u00fcre - Faust II",
-                                        "cardDesc": "In Faust II versteht Goethe 'Welt' als die Gesamtheit aller Erfahrungen und Wahrnehmungen, die ein Individuum in seinem Leben macht. Fausts Reise durch verschiedene Sph\u00e4ren und Epochen stellt dies dar. Dieses Konzept zeigt Goethes umfassendes, universelles Verst\u00e4ndnis von 'Welt', das \u00fcber rein materielle oder geographische Vorstellungen hinausgeht.",
-                                        "cardImg": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-97s5TkJ1dh4pHW0leQ05gIZh/user-JmCM7A2lbrDznyk6QanDxD6n/img-hq6wtYBtiV1DJuI3dbdvSHGj.png?st=2024-02-04T14%3A39%3A50Z&se=2024-02-04T16%3A39%3A50Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-02-04T02%3A20%3A47Z&ske=2024-02-05T02%3A20%3A47Z&sks=b&skv=2021-08-06&sig=ICnrWXHXCopVDviixa%2BdtDP6k5ah%2BmUOyvxXKtvlMFM%3D"
-                                      }
-                                    ]
-                                  },
-                                  {
-                                    "name": "Symbolik und Allegorie in Faust II",
-                                    "image": "assets/images/cards0.png",
-                                    "Stack": []
-                                  },
-                                  {
-                                    "name": "Charakteranalyse von Mephistopheles in Faust II",
-                                    "image": "assets/images/cards0.png",
-                                    "Stack": []
                                   }
                                 ]
                               }
