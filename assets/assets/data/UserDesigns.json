@@ -24,7 +24,7 @@
     "fks": {
       "Designs": {
         "corporate_name": "Feuerwehr Kommando Schweiz",
-        "corporate_image_path": "assets/images/FKS/logo_fks_cssp_csp.webp",
+        "corporate_image_path": "assets/images/fks/logo_fks_cssp_csp.webp",
         "libraries_icon_path": "assets/images/libraries.png",
         "cases_icon_path": "assets/images/cases.png",
         "books_icon_path": "assets/images/books.png",
@@ -45,7 +45,7 @@
     "grace": {
       "Designs": {
         "corporate_name": "Hotel Grace St. Moritz",
-        "corporate_image_path": "assets/images/Grace/hotel-grace-logo.png",
+        "corporate_image_path": "assets/images/grace/hotel-grace-logo.png",
         "libraries_icon_path": "assets/images/libraries00.png",
         "cases_icon_path": "assets/images/cases00.png",
         "books_icon_path": "assets/images/books00.png",
@@ -66,7 +66,7 @@
     "ibk-snow": {
       "Designs": {
         "corporate_name": "IBK S`NOW",
-        "corporate_image_path": "assets/images/IBK-Snow/600-resize-of-Logo IBK-Snow.webp",
+        "corporate_image_path": "assets/images/ibk-snow/600-resize-of-Logo IBK-Snow.webp",
         "libraries_icon_path": "assets/images/libraries.png",
         "cases_icon_path": "assets/images/cases.png",
         "books_icon_path": "assets/images/books.png",

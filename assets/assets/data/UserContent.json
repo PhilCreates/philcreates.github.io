@@ -10,7 +10,7 @@
               "Cases": [
                 {
                   "name": "Abitur Baden-W\u00fcrttemberg",
-                  "image": "assets/images/Default/abitur_bw.png",
+                  "image": "assets/images/def/abitur_bw.png",
                   "Books": [
                     {
                       "name": "Deutsch-Abitur",
@@ -32,14 +32,14 @@
                                       {
                                         "cardName": "Ankunft im Dorf",
                                         "cardType": "Buch",
-                                        "cardDesc": "Beschreibung von Werthers Ankunft im Dorf und seinen ersten Eindrücken.",
-                                        "cardImg": "assets/images/Default/ankunft_im_dorf.jpg",
+                                        "cardDesc": "Beschreibung von Werthers Ankunft im Dorf und seinen ersten Eindr\u00fccken.",
+                                        "cardImg": "assets/images/def/ankunft_im_dorf.jpg",
                                         "Quiz": [
                                           {
                                             "cardName": "Frage 1",
                                             "cardType": "Question",
                                             "cardQuiz": {
-                                              "cardQuizQuestion": "Wie heißt das Dorf, in dem Werther ankommt?",
+                                              "cardQuizQuestion": "Wie hei\u00dft das Dorf, in dem Werther ankommt?",
                                               "cardQuizOptions": {
                                                 "a": "Wetzlar",
                                                 "b": "Weimar"
@@ -79,20 +79,20 @@
                                       {
                                         "cardName": "Begegnung mit Lotte",
                                         "cardType": "Buch",
-                                        "cardDesc": "Beschreibung von Werthers erster Begegnung mit Lotte und seinen Gefühlen für sie.",
-                                        "cardImg": "assets/images/Default/lotte.jpg",
+                                        "cardDesc": "Beschreibung von Werthers erster Begegnung mit Lotte und seinen Gef\u00fchlen f\u00fcr sie.",
+                                        "cardImg": "assets/images/def/lotte.jpg",
                                         "Quiz": [
                                           {
                                             "cardName": "Frage 1",
                                             "cardType": "Question",
                                             "cardQuiz": {
-                                              "cardQuizQuestion": "Welchen Eindruck hinterlässt Lotte auf Werther bei ihrer ersten Begegnung?",
+                                              "cardQuizQuestion": "Welchen Eindruck hinterl\u00e4sst Lotte auf Werther bei ihrer ersten Begegnung?",
                                               "cardQuizOptions": {
-                                                "a": "Sie ist unhöflich und abweisend.",
+                                                "a": "Sie ist unh\u00f6flich und abweisend.",
                                                 "b": "Sie ist freundlich und bezaubernd."
                                               },
                                               "cardQuizSolution": "b",
-                                              "cardQuizExplanation": "Lotte hinterlässt auf Werther bei ihrer ersten Begegnung einen positiven Eindruck und erscheint ihm freundlich und bezaubernd."
+                                              "cardQuizExplanation": "Lotte hinterl\u00e4sst auf Werther bei ihrer ersten Begegnung einen positiven Eindruck und erscheint ihm freundlich und bezaubernd."
                                             }
                                           },
                                           {
@@ -112,28 +112,28 @@
                                             "cardName": "Frage 3",
                                             "cardType": "Question",
                                             "cardQuiz": {
-                                              "cardQuizQuestion": "Was empfindet Werther für Lotte nach ihrer ersten Begegnung?",
+                                              "cardQuizQuestion": "Was empfindet Werther f\u00fcr Lotte nach ihrer ersten Begegnung?",
                                               "cardQuizOptions": {
                                                 "a": "Geschwisterliche Liebe",
                                                 "b": "Leidenschaftliche Liebe"
                                               },
                                               "cardQuizSolution": "b",
-                                              "cardQuizExplanation": "Nach ihrer ersten Begegnung empfindet Werther leidenschaftliche Liebe für Lotte."
+                                              "cardQuizExplanation": "Nach ihrer ersten Begegnung empfindet Werther leidenschaftliche Liebe f\u00fcr Lotte."
                                             }
                                           }
                                         ]
                                       },
                                       {
-                                        "cardName": "Werthers Tragödie",
+                                        "cardName": "Werthers Trag\u00f6die",
                                         "cardType": "Buch",
                                         "cardDesc": "Beschreibung von Werthers tragischem Schicksal und seinem inneren Konflikt.",
-                                        "cardImg": "assets/images/Default/werther.jpg",
+                                        "cardImg": "assets/images/def/werther.jpg",
                                         "Quiz": [
                                           {
                                             "cardName": "Frage 1",
                                             "cardType": "Question",
                                             "cardQuiz": {
-                                              "cardQuizQuestion": "Was führt letztendlich zu Werthers tragischem Ende?",
+                                              "cardQuizQuestion": "Was f\u00fchrt letztendlich zu Werthers tragischem Ende?",
                                               "cardQuizOptions": {
                                                 "a": "Ein Unfall",
                                                 "b": "Liebeskummer und Selbstmord"
@@ -149,7 +149,7 @@
                                               "cardQuizQuestion": "Was symbolisiert die Natur in Werthers innerem Konflikt?",
                                               "cardQuizOptions": {
                                                 "a": "Hoffnung",
-                                                "b": "Zerstörung"
+                                                "b": "Zerst\u00f6rung"
                                               },
                                               "cardQuizSolution": "a",
                                               "cardQuizExplanation": "Die Natur symbolisiert in Werthers innerem Konflikt Hoffnung und Verzweiflung zugleich."
@@ -186,7 +186,7 @@
                                         "cardName": "Gelehrtentrag\u00f6die",
                                         "cardType": "Begriff",
                                         "cardDesc": "Eine Form des Drama innerhalb von Goethes 'Faust 1', die Fausts inneren Konflikt zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und Erf\u00fcllung darstellt.",
-                                        "cardImg": "assets/images/Default/studierzimmer.jpg",
+                                        "cardImg": "assets/images/def/studierzimmer.jpg",
                                         "Quiz": [
                                           {
                                             "cardName": "Frage 1",
@@ -264,7 +264,7 @@
                                         "cardName": "Faust",
                                         "cardType": "Charakter",
                                         "cardDesc": "Die Hauptfigur des Dramas, ein Gelehrter, der unzufrieden mit seinem Leben ist und einen Pakt mit dem Teufel Mephistopheles eingeht.",
-                                        "cardImg": "assets/images/Default/faust.jpg",
+                                        "cardImg": "assets/images/def/faust.jpg",
                                         "Quiz": [
                                           {
                                             "cardName": "Frage 1",
@@ -276,7 +276,7 @@
                                                 "b": "Gelehrter"
                                               },
                                               "cardQuizSolution": "b",
-                                              "cardQuizExplanation": "Faust ist ein Gelehrter, der verzweifelt nach tieferem Wissen und Verständnis strebt."
+                                              "cardQuizExplanation": "Faust ist ein Gelehrter, der verzweifelt nach tieferem Wissen und Verst\u00e4ndnis strebt."
                                             },
                                             "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
                                           },
@@ -286,7 +286,7 @@
                                             "cardQuiz": {
                                               "cardQuizQuestion": "In welchem Zustand befindet sich Faust zu Beginn des Dramas?",
                                               "cardQuizOptions": {
-                                                "a": "Zufrieden und erfüllt",
+                                                "a": "Zufrieden und erf\u00fcllt",
                                                 "b": "Verzweifelt und unzufrieden"
                                               },
                                               "cardQuizSolution": "b",
@@ -298,13 +298,13 @@
                                             "cardName": "Frage 3",
                                             "cardType": "Question",
                                             "cardQuiz": {
-                                              "cardQuizQuestion": "Womit droht Faust, bevor er den Pakt mit Mephistopheles schließt?",
+                                              "cardQuizQuestion": "Womit droht Faust, bevor er den Pakt mit Mephistopheles schlie\u00dft?",
                                               "cardQuizOptions": {
                                                 "a": "Seinen Ruf zu ruinieren",
                                                 "b": "Selbstmord"
                                               },
                                               "cardQuizSolution": "b",
-                                              "cardQuizExplanation": "Faust erwägt Selbstmord aufgrund seiner tiefen Unzufriedenheit und Verzweiflung, bevor er den Pakt mit Mephistopheles eingeht."
+                                              "cardQuizExplanation": "Faust erw\u00e4gt Selbstmord aufgrund seiner tiefen Unzufriedenheit und Verzweiflung, bevor er den Pakt mit Mephistopheles eingeht."
                                             },
                                             "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
                                           },
@@ -312,13 +312,13 @@
                                             "cardName": "Frage 4",
                                             "cardType": "Question",
                                             "cardQuiz": {
-                                              "cardQuizQuestion": "Was verspricht Mephistopheles Faust im Austausch für seine Seele?",
+                                              "cardQuizQuestion": "Was verspricht Mephistopheles Faust im Austausch f\u00fcr seine Seele?",
                                               "cardQuizOptions": {
                                                 "a": "Unsterblichkeit",
-                                                "b": "Unbegrenzte Erkenntnis und Vergnügen"
+                                                "b": "Unbegrenzte Erkenntnis und Vergn\u00fcgen"
                                               },
                                               "cardQuizSolution": "b",
-                                              "cardQuizExplanation": "Mephistopheles verspricht Faust unbegrenzte Erkenntnis und Vergnügen im Austausch für seine Seele."
+                                              "cardQuizExplanation": "Mephistopheles verspricht Faust unbegrenzte Erkenntnis und Vergn\u00fcgen im Austausch f\u00fcr seine Seele."
                                             },
                                             "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
                                           },
@@ -326,13 +326,13 @@
                                             "cardName": "Frage 5",
                                             "cardType": "Question",
                                             "cardQuiz": {
-                                              "cardQuizQuestion": "Welche Bedingung stellt Faust für den Pakt mit Mephistopheles?",
+                                              "cardQuizQuestion": "Welche Bedingung stellt Faust f\u00fcr den Pakt mit Mephistopheles?",
                                               "cardQuizOptions": {
-                                                "a": "Er will der mächtigste Mensch auf Erden werden",
-                                                "b": "Er will einen Moment erleben, den er nicht loslassen möchte"
+                                                "a": "Er will der m\u00e4chtigste Mensch auf Erden werden",
+                                                "b": "Er will einen Moment erleben, den er nicht loslassen m\u00f6chte"
                                               },
                                               "cardQuizSolution": "b",
-                                              "cardQuizExplanation": "Faust stellt die Bedingung, dass Mephistopheles ihm einen Moment bieten muss, den er so sehr genießt, dass er wünscht, er möge ewig dauern."
+                                              "cardQuizExplanation": "Faust stellt die Bedingung, dass Mephistopheles ihm einen Moment bieten muss, den er so sehr genie\u00dft, dass er w\u00fcnscht, er m\u00f6ge ewig dauern."
                                             },
                                             "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
                                           }
@@ -342,13 +342,13 @@
                                         "cardName": "Mephistopheles",
                                         "cardType": "Charakter",
                                         "cardDesc": "Der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer f\u00fchrt.",
-                                        "cardImg": "assets/images/Default/mephisto.jpg",
+                                        "cardImg": "assets/images/def/mephisto.jpg",
                                         "Quiz": [
                                           {
                                             "cardName": "Frage 1",
                                             "cardType": "Question",
                                             "cardQuiz": {
-                                              "cardQuizQuestion": "Wie wird Mephistopheles erstmals in 'Faust' eingeführt?",
+                                              "cardQuizQuestion": "Wie wird Mephistopheles erstmals in 'Faust' eingef\u00fchrt?",
                                               "cardQuizOptions": {
                                                 "a": "Als ein Geist",
                                                 "b": "Als ein schwarzer Pudel"
@@ -362,13 +362,13 @@
                                             "cardName": "Frage 2",
                                             "cardType": "Question",
                                             "cardQuiz": {
-                                              "cardQuizQuestion": "Was repräsentiert Mephistopheles in 'Faust'?",
+                                              "cardQuizQuestion": "Was repr\u00e4sentiert Mephistopheles in 'Faust'?",
                                               "cardQuizOptions": {
                                                 "a": "Das Streben nach Tugend",
-                                                "b": "Das Prinzip des Bösen"
+                                                "b": "Das Prinzip des B\u00f6sen"
                                               },
                                               "cardQuizSolution": "b",
-                                              "cardQuizExplanation": "Mephistopheles repräsentiert das Prinzip des Bösen und die Versuchung, sich von moralischen Werten abzuwenden."
+                                              "cardQuizExplanation": "Mephistopheles repr\u00e4sentiert das Prinzip des B\u00f6sen und die Versuchung, sich von moralischen Werten abzuwenden."
                                             },
                                             "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
                                           },
@@ -378,11 +378,11 @@
                                             "cardQuiz": {
                                               "cardQuizQuestion": "Wie charakterisiert Mephistopheles sich selbst in 'Faust'?",
                                               "cardQuizOptions": {
-                                                "a": "Als Teil der Kraft, die stets das Böse will und stets das Gute schafft",
+                                                "a": "Als Teil der Kraft, die stets das B\u00f6se will und stets das Gute schafft",
                                                 "b": "Als ein einfacher Diener des Himmels"
                                               },
                                               "cardQuizSolution": "a",
-                                              "cardQuizExplanation": "Mephistopheles beschreibt sich selbst als einen Teil der Kraft, die stets das Böse will und stets das Gute schafft, was seine komplexe Natur hervorhebt."
+                                              "cardQuizExplanation": "Mephistopheles beschreibt sich selbst als einen Teil der Kraft, die stets das B\u00f6se will und stets das Gute schafft, was seine komplexe Natur hervorhebt."
                                             },
                                             "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
                                           },
@@ -406,7 +406,7 @@
                                             "cardQuiz": {
                                               "cardQuizQuestion": "Wie reagiert Mephistopheles auf Fausts Verzweiflung und Selbstmordgedanken?",
                                               "cardQuizOptions": {
-                                                "a": "Mit Gleichgültigkeit",
+                                                "a": "Mit Gleichg\u00fcltigkeit",
                                                 "b": "Mit Versprechungen und Verlockungen"
                                               },
                                               "cardQuizSolution": "b",
@@ -420,7 +420,991 @@
                                   },
                                   {
                                     "name": "Die Gretchentrag\u00f6die",
-                                    "image": "https://cdn-icons-png.flaticon.com/512/47/47038.png"
+                                    "image": "https://cdn-icons-png.flaticon.com/512/47/47038.png",
+                                    "Stack": [
+                                      {
+                                        "cardName": "Gretchentrag\u00f6die",
+                                        "cardType": "Hauptthema",
+                                        "cardDesc": "Die Gretchentrag\u00f6die in Faust I ist eine der zentralen Handlungsstr\u00e4nge im Drama. Sie erz\u00e4hlt die tragische Liebesgeschichte zwischen Faust und Gretchen, die letztendlich zum Tod Gretchens f\u00fchrt, nachdem sie ihr uneheliches Kind t\u00f6tet und daf\u00fcr verurteilt wird.",
+                                        "cardImg": "assets/images/def/Gretchentrag\u00f6die (Hauptthema).png"
+                                      },
+                                      {
+                                        "cardName": "Fausts und Gretchens Beziehung",
+                                        "cardType": "Charakterbeziehungen",
+                                        "cardDesc": "Fausts und Gretchens Beziehung beginnt leidenschaftlich und intensiv, wird jedoch zunehmend tragischer und konfliktreicher. Fausts \u00fcbernat\u00fcrliche Verf\u00fchrungsk\u00fcnste und Gretchens Naivit\u00e4t f\u00fchren zu ihrer Schwangerschaft, ihrem sozialen Abstieg und schlie\u00dflich ihrem Tod.",
+                                        "cardImg": "assets/images/def/Fausts und Gretchens Beziehung (Charakterbeziehungen).png"
+                                      },
+                                      {
+                                        "cardName": "Gretchens Trag\u00f6die",
+                                        "cardType": "Charakterentwicklung",
+                                        "cardDesc": "Gretchens Trag\u00f6die ist ein Resultat ihrer sozialen Stellung, ihrer Naivit\u00e4t und ihrer unbedingten Liebe zu Faust. Nachdem sie ein uneheliches Kind zur Welt bringt und dieses t\u00f6tet, wird sie von der Gesellschaft versto\u00dfen und schlie\u00dflich zum Tode verurteilt.",
+                                        "cardImg": "assets/images/def/Gretchens Trag\u00f6die (Charakterentwicklung).png"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Faust II",
+                                "image": "assets/images/decks0.png",
+                                "Cards": [
+                                  {
+                                    "name": "Goethes Weltbild in Faust II",
+                                    "image": "assets/images/cards0.png",
+                                    "Stack": [
+                                      {
+                                        "cardName": "Goethes Konzept der 'Dichtung und Wahrheit' in Faust II",
+                                        "cardType": "Lekt\u00fcre - Faust II",
+                                        "cardDesc": "Goethe betrachtete Kunst nicht als blo\u00dfe Nachahmung der Natur, sondern als Ausdruck der Wahrheit. In Faust II zeigt er dies durch die Darstellung von Fausts Suche nach tieferer Erkenntnis und Wahrheit, die letztlich zu seiner Erl\u00f6sung f\u00fchrt. Dieses Konzept wird auch als 'Dichtung und Wahrheit' bezeichnet.",
+                                        "cardImg": "assets/images/def/Welt in Faust II 1.png",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "Homunculus",
+                                            "cardType": "Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welche Rolle spielt der Homunculus in Bezug auf Goethes Konzept der 'Dichtung und Wahrheit'?",
+                                              "cardQuizOptions": {
+                                                "a": "Er repr\u00e4sentiert die K\u00fcnstlichkeit und Unvollkommenheit der menschlich geschaffenen Wahrheit.",
+                                                "b": "Er repr\u00e4sentiert die absolute Wahrheit, die durch g\u00f6ttliche Sch\u00f6pfung erreicht wird."
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Homunculus stellt die menschliche Sch\u00f6pfung und daher die Unvollkommenheit und K\u00fcnstlichkeit gegen\u00fcber der nat\u00fcrlichen Wahrheit dar."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Helenenszene",
+                                            "cardType": "Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was symbolisiert die Helenenszene in Bezug auf Goethes Konzept von 'Dichtung und Wahrheit'?",
+                                              "cardQuizOptions": {
+                                                "a": "Die Vereinigung von Dichtung und Wahrheit durch die Zusammenf\u00fchrung von Antike und Moderne.",
+                                                "b": "Die Unvereinbarkeit von Dichtung und Wahrheit, da die Antike und die Moderne unvers\u00f6hnliche Gegens\u00e4tze darstellen."
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "In der Helenenszene vers\u00f6hnt Goethe Antike und Moderne, was auf eine Verschmelzung von Dichtung (Idealem) und Wahrheit (Realit\u00e4t) hindeutet."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Erl\u00f6sungsmotiv",
+                                            "cardType": "Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wie interpretiert Goethe das Erl\u00f6sungsmotiv im Kontext von 'Dichtung und Wahrheit'?",
+                                              "cardQuizOptions": {
+                                                "a": "Faust kann nur durch die Anerkennung der absoluten Wahrheit erl\u00f6st werden.",
+                                                "b": "Die Erl\u00f6sung wird durch die Harmonie von Dichtung und Wahrheit erreicht."
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Goethe zeigt, dass die Erl\u00f6sung nicht durch die Akzeptanz einer einzigen absoluten Wahrheit, sondern durch das Gleichgewicht und die Harmonie von Dichtung und Wahrheit erreicht wird."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "cardName": "Goethes Darstellung des Ewigen Weiblichen in Faust II",
+                                        "cardType": "Lekt\u00fcre - Faust II",
+                                        "cardDesc": "Goethe stellt das 'Ewige Weibliche' als zentrale Kraft dar, die Faust zur Erl\u00f6sung f\u00fchrt. Dieses Konzept symbolisiert nicht nur Sch\u00f6nheit und Anziehungskraft, sondern auch moralische Reinheit und spirituelle Erleuchtung. Die Darstellung des Ewigen Weiblichen zeigt Goethes Auffassung von der Rolle der Frau in der Gesellschaft und der menschlichen Existenz.",
+                                        "cardImg": "assets/images/def/Welt in Faust II 2.png",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "Ewiges Weibliches",
+                                            "cardType": "Goethes Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was repr\u00e4sentiert das Ewige Weibliche laut Goethe in Faust II?",
+                                              "cardQuizOptions": {
+                                                "a": "Das G\u00f6ttliche und Unbegreifliche",
+                                                "b": "Die Reinheit und Unschuld"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "F\u00fcr Goethe repr\u00e4sentiert das 'Ewige Weibliche' das G\u00f6ttliche und Unbegreifliche, das den Menschen anzieht und zur Weiterentwicklung anregt."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Faust II und das Ewige Weibliche",
+                                            "cardType": "Goethes Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welche Frauengestalt in Faust II verk\u00f6rpert das Ewige Weibliche?",
+                                              "cardQuizOptions": {
+                                                "a": "Helena",
+                                                "b": "Gretchen"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Obwohl Helena eine zentrale Rolle in Faust II spielt, ist es Gretchen, die das 'Ewige Weibliche' verk\u00f6rpert und Faust in die h\u00f6chsten Sph\u00e4ren der Erkenntnis f\u00fchrt."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Schlussszene in Faust II",
+                                            "cardType": "Goethes Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wie endet Goethes Faust II im Zusammenhang mit der Darstellung des Ewigen Weiblichen?",
+                                              "cardQuizOptions": {
+                                                "a": "Mit der Erl\u00f6sung Fausts durch das Ewige Weibliche",
+                                                "b": "Mit der Verdammnis Fausts durch das Ewige Weibliche"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "In der Schlussszene von Faust II wird Faust durch das 'Ewige Weibliche' erl\u00f6st und gelangt zu h\u00f6herer Erkenntnis und Vollkommenheit."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "cardName": "Goethes Verst\u00e4ndnis von 'Welt' in Faust II",
+                                        "cardType": "Lekt\u00fcre - Faust II",
+                                        "cardDesc": "In Faust II versteht Goethe 'Welt' als die Gesamtheit aller Erfahrungen und Wahrnehmungen, die ein Individuum in seinem Leben macht. Fausts Reise durch verschiedene Sph\u00e4ren und Epochen stellt dies dar. Dieses Konzept zeigt Goethes umfassendes, universelles Verst\u00e4ndnis von 'Welt', das \u00fcber rein materielle oder geographische Vorstellungen hinausgeht.",
+                                        "cardImg": "assets/images/def/Welt in Faust II 3.png",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "Goethes Verst\u00e4ndnis von 'Welt' in Faust II - Frage 1",
+                                            "cardType": "Literatur",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was versteht Goethe unter der 'Welt' in Faust II?",
+                                              "cardQuizOptions": {
+                                                "a": "Die physische Welt in ihren materiellen Aspekten",
+                                                "b": "Eine metaphysische Welt, die sowohl die physische als auch die geistige Welt umfasst"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Goethes Verst\u00e4ndnis von 'Welt' in Faust II umfasst sowohl die physische als auch die geistige Welt und l\u00e4sst auch metaphysische Aspekte zu."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Goethes Verst\u00e4ndnis von 'Welt' in Faust II - Frage 2",
+                                            "cardType": "Literatur",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wie wird die 'Welt' in Faust II dargestellt?",
+                                              "cardQuizOptions": {
+                                                "a": "Als statische, unver\u00e4nderliche Entit\u00e4t",
+                                                "b": "Als dynamische, sich st\u00e4ndig wandelnde Entit\u00e4t"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Goethes Darstellung der 'Welt' in Faust II ist dynamisch und unterliegt st\u00e4ndigen Ver\u00e4nderungen."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Goethes Verst\u00e4ndnis von 'Welt' in Faust II - Frage 3",
+                                            "cardType": "Literatur",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wie wird das Verh\u00e4ltnis von Mensch und Welt in Faust II dargestellt?",
+                                              "cardQuizOptions": {
+                                                "a": "Der Mensch ist ein passiver Beobachter der Welt",
+                                                "b": "Der Mensch ist ein aktiver Gestalter der Welt"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "In Faust II wird der Mensch als aktiver Gestalter der Welt dargestellt, der sich st\u00e4ndig in Interaktion mit ihr befindet."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Symbolik und Allegorie in Faust II",
+                                    "image": "assets/images/cards0.png",
+                                    "Stack": [
+                                      {
+                                        "cardName": "Erdgeist Symbolik in Faust II",
+                                        "cardType": "Symbolik und Allegorie in Faust II",
+                                        "cardDesc": "Im Kontext von Faust II repr\u00e4sentiert der Erdgeist das Unbegreifliche und Unendliche der Welt. Der Erdgeist ist eine symbolische Repr\u00e4sentation der Unf\u00e4higkeit des Menschen, das Universum zu verstehen oder zu kontrollieren. Im Dialog von Faust mit dem Erdgeist kommen sowohl seine Ehrfurcht vor dieser Unendlichkeit als auch seine Frustration \u00fcber seine Unf\u00e4higkeit, sie zu verstehen, zum Ausdruck.",
+                                        "cardImg": "assets/images/def/Erdgeist Symbolik in Faust II (Symbolik und Allegorie in Faust II).png",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "Erdgeist",
+                                            "cardType": "Symbolik in Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was repr\u00e4sentiert der Erdgeist im Kontext von Goethes 'Faust II'?",
+                                              "cardQuizOptions": {
+                                                "a": "Die Begrenztheit menschlichen Wissens",
+                                                "b": "Die Erde als Planet"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Im Kontext von 'Faust II' steht der Erdgeist f\u00fcr die Begrenztheit menschlichen Wissens und Verstehens."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Erdgeist",
+                                            "cardType": "Symbolik in Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was versteht Faust unter dem 'Erdgeist'?",
+                                              "cardQuizOptions": {
+                                                "a": "Eine \u00fcbernat\u00fcrliche Kraft",
+                                                "b": "Seinen eigenen Ehrgeiz"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Faust versteht unter dem 'Erdgeist' eine \u00fcbernat\u00fcrliche, erdverbundene Kraft, die er beschw\u00f6rt, um Wissen zu erlangen."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Erdgeist",
+                                            "cardType": "Symbolik in Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wie bezeichnet Faust den Erdgeist?",
+                                              "cardQuizOptions": {
+                                                "a": "Als seinen Feind",
+                                                "b": "Als sein Gegen\u00fcber"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Faust bezeichnet den Erdgeist als sein 'Gegen\u00fcber', da er ihn als Symbol f\u00fcr das Unbekannte und Unverstandene betrachtet."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Erdgeist",
+                                            "cardType": "Symbolik in Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wieso kann Faust den Erdgeist nicht beherrschen?",
+                                              "cardQuizOptions": {
+                                                "a": "Weil er zu m\u00e4chtig ist",
+                                                "b": "Weil er nicht real ist"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Faust kann den Erdgeist nicht beherrschen, weil dieser die \u00dcbermacht der Natur und das Unbegreifliche repr\u00e4sentiert."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Erdgeist",
+                                            "cardType": "Symbolik in Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wieso scheitert Faust an der Beschw\u00f6rung des Erdgeistes?",
+                                              "cardQuizOptions": {
+                                                "a": "Weil er nicht an ihn glaubt",
+                                                "b": "Weil er seine Grenzen als Mensch nicht akzeptiert"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Faust scheitert an der Beschw\u00f6rung des Erdgeistes, weil er seine Begrenztheit als Mensch nicht einsieht."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Erdgeist",
+                                            "cardType": "Symbolik in Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wie reagiert der Erdgeist auf Fausts Beschw\u00f6rung?",
+                                              "cardQuizOptions": {
+                                                "a": "Er weist ihn ab",
+                                                "b": "Er erscheint ihm sofort"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Der Erdgeist weist Faust ab, indem er ihm seine Unzul\u00e4nglichkeit vor Augen f\u00fchrt."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Erdgeist",
+                                            "cardType": "Symbolik in Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was ist das Ergebnis von Fausts Beschw\u00f6rung des Erdgeistes?",
+                                              "cardQuizOptions": {
+                                                "a": "Er erlangt neues Wissen",
+                                                "b": "Er erkennt seine Begrenztheit"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Das Ergebnis von Fausts Beschw\u00f6rung des Erdgeistes ist, dass er seine menschliche Begrenztheit und das Unverst\u00e4ndnis der Welt erkennt."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Erdgeist",
+                                            "cardType": "Symbolik in Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wie beeinflusst der Erdgeist Fausts weiteren Lebensweg?",
+                                              "cardQuizOptions": {
+                                                "a": "Er wird zum b\u00f6sen Geist",
+                                                "b": "Er sucht nach anderen Wegen, Wissen zu erlangen"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Nach seiner Begegnung mit dem Erdgeist sucht Faust nach anderen Wegen, Wissen und Erkenntnis zu erlangen."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Erdgeist",
+                                            "cardType": "Symbolik in Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wie wird der Erdgeist in Faust II dargestellt?",
+                                              "cardQuizOptions": {
+                                                "a": "Als greifbare Figur",
+                                                "b": "Als abstrakte Entit\u00e4t"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "In Faust II wird der Erdgeist als abstrakte Entit\u00e4t und nicht als konkrete Figur dargestellt."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Erdgeist",
+                                            "cardType": "Symbolik in Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was symbolisiert der Erdgeist in Bezug auf das menschliche Streben?",
+                                              "cardQuizOptions": {
+                                                "a": "Das Scheitern",
+                                                "b": "Die Unendlichkeit"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "In Bezug auf das menschliche Streben symbolisiert der Erdgeist das Scheitern und die Begrenztheit des Menschen."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "cardName": "Helenen-Symbolik in Faust II",
+                                        "cardType": "Symbolik und Allegorie in Faust II",
+                                        "cardDesc": "Helena ist eine zentrale Figur in Faust II und repr\u00e4sentiert die Sch\u00f6nheit und Vollkommenheit der klassischen Welt. Sie repr\u00e4sentiert das Ideal, nach dem Faust strebt, und steht symbolisch f\u00fcr das Erstreben des Unm\u00f6glichen. Fausts Beziehung zu Helena zeigt seine Verzweiflung und Unzufriedenheit und symbolisiert auch eine tiefer gehende Auseinandersetzung mit den Grenzen menschlicher Begierde und Begierde.",
+                                        "cardImg": "assets/images/def/Helenen-Symbolik in Faust II (Symbolik und Allegorie in Faust II).png",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "Helenen-Symbolik",
+                                            "cardType": "Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welche historische Figur repr\u00e4sentiert Helena in Faust II?",
+                                              "cardQuizOptions": {
+                                                "a": "Cleopatra",
+                                                "b": "Helena von Troja"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Helena repr\u00e4sentiert Helena von Troja, eine zentrale Figur in der griechischen Mythologie."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/9/92/Helena_of_Troy.png"
+                                          },
+                                          {
+                                            "cardName": "Helenen-Symbolik",
+                                            "cardType": "Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welche Epoche repr\u00e4sentiert Helena in Faust II?",
+                                              "cardQuizOptions": {
+                                                "a": "Mittelalter",
+                                                "b": "Antike"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Helena repr\u00e4sentiert die Antike, eine Epoche, die vor allem durch den Glauben an die griechischen G\u00f6tter gekennzeichnet war."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Ancient_greek_art.png"
+                                          },
+                                          {
+                                            "cardName": "Helenen-Symbolik",
+                                            "cardType": "Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welches Ideal wird durch Helena in Faust II repr\u00e4sentiert?",
+                                              "cardQuizOptions": {
+                                                "a": "Moralisches Ideal",
+                                                "b": "Sch\u00f6nheitsideal"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Helena repr\u00e4sentiert das Sch\u00f6nheitsideal der Antike und ist somit ein Symbol f\u00fcr \u00e4sthetische Perfektion."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/5/57/Helen_of_troy.png"
+                                          },
+                                          {
+                                            "cardName": "Helenen-Symbolik",
+                                            "cardType": "Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wer ist der Vater von Helena in der griechischen Mythologie?",
+                                              "cardQuizOptions": {
+                                                "a": "Zeus",
+                                                "b": "Athena"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "In der griechischen Mythologie ist Helena die Tochter von Zeus, dem h\u00f6chsten der griechischen G\u00f6tter."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/4/43/Zeus.png"
+                                          },
+                                          {
+                                            "cardName": "Helenen-Symbolik",
+                                            "cardType": "Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was repr\u00e4sentiert Helena's Scho\u00df in Faust II?",
+                                              "cardQuizOptions": {
+                                                "a": "Fruchtbarkeit",
+                                                "b": "Alter"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Helena's Scho\u00df repr\u00e4sentiert die Fruchtbarkeit und ist ein Symbol f\u00fcr Leben und Erneuerung."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Fertility.png"
+                                          },
+                                          {
+                                            "cardName": "Helenen-Symbolik",
+                                            "cardType": "Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welches Element wird in Faust II mit Helena in Verbindung gebracht?",
+                                              "cardQuizOptions": {
+                                                "a": "Feuer",
+                                                "b": "Wasser"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Helena wird in Faust II mit dem Element Wasser in Verbindung gebracht, das f\u00fcr Reinheit und Erneuerung steht."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Water_element.png"
+                                          },
+                                          {
+                                            "cardName": "Helenen-Symbolik",
+                                            "cardType": "Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was repr\u00e4sentiert Helena's Schleier in Faust II?",
+                                              "cardQuizOptions": {
+                                                "a": "Unbekanntes",
+                                                "b": "Verg\u00e4nglichkeit"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Helena's Schleier repr\u00e4sentiert das Unbekannte und ist ein Symbol f\u00fcr Geheimnisse und Unsichtbarkeit."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/3/35/Veil.png"
+                                          },
+                                          {
+                                            "cardName": "Helenen-Symbolik",
+                                            "cardType": "Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welche Farbe wird in Faust II mit Helena in Verbindung gebracht?",
+                                              "cardQuizOptions": {
+                                                "a": "Rot",
+                                                "b": "Wei\u00df"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Helena wird in Faust II mit der Farbe Wei\u00df in Verbindung gebracht, das f\u00fcr Reinheit und Unschuld steht."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/0/0b/White_color.png"
+                                          },
+                                          {
+                                            "cardName": "Helenen-Symbolik",
+                                            "cardType": "Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Mit welchem Tier wird Helena in Faust II verglichen?",
+                                              "cardQuizOptions": {
+                                                "a": "Schwan",
+                                                "b": "L\u00f6we"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Helena wird in Faust II mit einem Schwan verglichen, einem Tier, das f\u00fcr Sch\u00f6nheit und Anmut steht."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/1/16/Swan.png"
+                                          },
+                                          {
+                                            "cardName": "Helenen-Symbolik",
+                                            "cardType": "Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wer verf\u00fchrt Helena in der griechischen Mythologie?",
+                                              "cardQuizOptions": {
+                                                "a": "Paris",
+                                                "b": "Achilles"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "In der griechischen Mythologie wird Helena von Paris verf\u00fchrt, was zum Trojanischen Krieg f\u00fchrt."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/4/41/Paris_of_troy.png"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "cardName": "Mephistopheles Symbolik in Faust II",
+                                        "cardType": "Symbolik und Allegorie in Faust II",
+                                        "cardDesc": "Mephistopheles ist ein zentraler Charakter in Faust II und repr\u00e4sentiert das B\u00f6se und D\u00e4monische im Menschen. Er ist eine st\u00e4ndige Versuchung f\u00fcr Faust und repr\u00e4sentiert die dunkle Seite der menschlichen Natur. Mephistopheles symbolisiert somit die negativen Aspekte des menschlichen Strebens und die destruktiven Folgen egoistischer Begierden.",
+                                        "cardImg": "assets/images/def/Mephistopheles Symbolik in Faust II (Symbolik und Allegorie in Faust II).png",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "Mephistopheles als Symbol der Verf\u00fchrung",
+                                            "cardType": "Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "In welcher Szene von Faust II verf\u00fchrt Mephistopheles Helen of Troy?",
+                                              "cardQuizOptions": {
+                                                "a": "Im klassischen Walpurgisnacht",
+                                                "b": "In der Helena-Trag\u00f6die"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "In der Helena-Trag\u00f6die verf\u00fchrt Mephistopheles Helen of Troy."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles als symbolische Darstellung",
+                                            "cardType": "Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was repr\u00e4sentiert Mephistopheles symbolisch in Faust II?",
+                                              "cardQuizOptions": {
+                                                "a": "Das B\u00f6se und die Verf\u00fchrung",
+                                                "b": "Die Liebe und die Zuneigung"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Mephistopheles repr\u00e4sentiert das B\u00f6se und die Verf\u00fchrung in Faust II."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles und das Ewig-Weibliche",
+                                            "cardType": "Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Hat Mephistopheles eine Beziehung zum Ewig-Weiblichen in Faust II?",
+                                              "cardQuizOptions": {
+                                                "a": "Ja",
+                                                "b": "Nein"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Mephistopheles hat keine direkte Beziehung zum Ewig-Weiblichen in Faust II."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles und die Magie",
+                                            "cardType": "Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Verwendet Mephistopheles Magie in Faust II?",
+                                              "cardQuizOptions": {
+                                                "a": "Ja",
+                                                "b": "Nein"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Mephistopheles verwendet Magie in Faust II um seine Ziele zu erreichen."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles und die Vernunft",
+                                            "cardType": "Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Vertritt Mephistopheles die Vernunft in Faust II?",
+                                              "cardQuizOptions": {
+                                                "a": "Ja",
+                                                "b": "Nein"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Mephistopheles vertritt nicht die Vernunft in Faust II, sondern ist eher ein Symbol f\u00fcr Verf\u00fchrung und das B\u00f6se."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles und das Paradies",
+                                            "cardType": "Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Erscheint Mephistopheles im Paradies in Faust II?",
+                                              "cardQuizOptions": {
+                                                "a": "Ja",
+                                                "b": "Nein"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Mephistopheles erscheint nicht im Paradies in Faust II. Seine Rolle endet mit dem Tod von Faust."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles und die Wahrheit",
+                                            "cardType": "Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Ist Mephistopheles ein Symbol f\u00fcr die Wahrheit in Faust II?",
+                                              "cardQuizOptions": {
+                                                "a": "Ja",
+                                                "b": "Nein"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Mephistopheles ist kein Symbol f\u00fcr die Wahrheit in Faust II. Er ist eher ein Symbol f\u00fcr Verf\u00fchrung und das B\u00f6se."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles und der Pakt",
+                                            "cardType": "Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wer schlie\u00dft den Pakt mit Mephistopheles in Faust II?",
+                                              "cardQuizOptions": {
+                                                "a": "Faust",
+                                                "b": "Wagner"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Der Pakt in Faust II wird zwischen Faust und Mephistopheles geschlossen."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles und das Gl\u00fcck",
+                                            "cardType": "Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Hilft Mephistopheles Faust das Gl\u00fcck zu finden in Faust II?",
+                                              "cardQuizOptions": {
+                                                "a": "Ja",
+                                                "b": "Nein"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Mephistopheles hilft Faust nicht das Gl\u00fcck zu finden in Faust II. Seine Rolle besteht darin, Faust zu verf\u00fchren und zu t\u00e4uschen."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles und das Leben nach dem Tod",
+                                            "cardType": "Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Hat Mephistopheles eine Vorstellung vom Leben nach dem Tod in Faust II?",
+                                              "cardQuizOptions": {
+                                                "a": "Ja",
+                                                "b": "Nein"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Mephistopheles hat keine Vorstellung vom Leben nach dem Tod in Faust II. Seine Rolle endet mit dem Tod von Faust."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Charakteranalyse von Mephistopheles in Faust II",
+                                    "image": "assets/images/cards0.png",
+                                    "Stack": [
+                                      {
+                                        "cardName": "Mephistopheles in Faust II - Identit\u00e4t",
+                                        "cardType": "Charakteranalyse - Faust II",
+                                        "cardDesc": "Mephistopheles ist eine Symbolfigur, die sowohl das B\u00f6se, als auch das Denken repr\u00e4sentiert. Er ist ein sehr widerspr\u00fcchlicher Charakter, der sowohl fasziniert als auch abst\u00f6\u00dft. Trotz seiner B\u00f6sartigkeit hat er auch eine gewisse Anziehungskraft. In Faust II wird er auch als Symbol f\u00fcr die zynische, materialistische und entmenschlichte Welt gesehen, in der Faust lebt.",
+                                        "cardImg": "assets/images/def/Mephistopheles in Faust II - Identit\u00e4t (Charakteranalyse - Faust II).png",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "Mephistopheles in Faust II",
+                                            "cardType": "Literatur",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "In welcher Verkleidung tritt Mephistopheles im f\u00fcnften Akt von Faust II auf?",
+                                              "cardQuizOptions": {
+                                                "a": "Als Plutus, der Gott des Reichtums",
+                                                "b": "Als Phorkyas, die G\u00f6ttin der Zerst\u00f6rung"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Mephistopheles erscheint im f\u00fcnften Akt von Faust II als Plutus, der Gott des Reichtums."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles in Faust II",
+                                            "cardType": "Literatur",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wie wird Mephistopheles im ersten Akt von Faust II charakterisiert?",
+                                              "cardQuizOptions": {
+                                                "a": "Als helfender Geist, der stets verneint",
+                                                "b": "Als d\u00e4monischer Versucher, der Gutes tut"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Im ersten Akt von Faust II wird Mephistopheles als ein helfender Geist charakterisiert, der stets verneint."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles in Faust II",
+                                            "cardType": "Literatur",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wer ist Mephistopheles' Gegenspieler in Faust II?",
+                                              "cardQuizOptions": {
+                                                "a": "Faust",
+                                                "b": "Gott"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Mephistopheles' Gegenspieler in Faust II ist Faust. Er ist es, den Mephistopheles zu verf\u00fchren versucht."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "cardName": "Mephistopheles in Faust II - Rolle und Funktion",
+                                        "cardType": "Charakteranalyse - Faust II",
+                                        "cardDesc": "Mephistopheles spielt in Faust II eine doppelte Rolle. Einerseits ist er der Verf\u00fchrer, der Faust immer weiter in sein Unheil treibt. Andererseits ist er auch derjenige, der Faust vor Augen f\u00fchrt, wie hohl und sinnlos sein Streben nach Wissen und Macht ist. Mephistopheles ist somit gleichzeitig Zerst\u00f6rer und Erleuchtender, was seine Rolle und Funktion sehr komplex und interessant macht.",
+                                        "cardImg": "assets/images/def/Mephistopheles in Faust II - Rolle und Funktion (Charakteranalyse - Faust II).png",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "Mephistopheles Faust II - Rolle 1",
+                                            "cardType": "Literatur",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welche Rolle \u00fcbernimmt Mephistopheles in Faust II haupts\u00e4chlich?",
+                                              "cardQuizOptions": {
+                                                "a": "Er fungiert als Teufel und Verf\u00fchrer",
+                                                "b": "Er fungiert als Gottes Gesandter"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Mephistopheles in Faust II fungiert haupts\u00e4chlich als Teufel und Verf\u00fchrer."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles Faust II - Rolle 2",
+                                            "cardType": "Literatur",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wie wird Mephistopheles' Rolle in Faust II im Vergleich zu Faust I charakterisiert?",
+                                              "cardQuizOptions": {
+                                                "a": "Seine Rolle wird komplexer und vielf\u00e4ltiger",
+                                                "b": "Seine Rolle wird einfacher und eindimensional"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "In Faust II wird die Rolle von Mephistopheles komplexer und vielf\u00e4ltiger im Vergleich zu Faust I."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles Faust II - Rolle 3",
+                                            "cardType": "Literatur",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "In welchem Akt von Faust II nimmt Mephistopheles die Rolle eines Feldmarschalls ein?",
+                                              "cardQuizOptions": {
+                                                "a": "Im dritten Akt",
+                                                "b": "Im vierten Akt"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "In Faust II \u00fcbernimmt Mephistopheles im vierten Akt die Rolle eines Feldmarschalls."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles Faust II - Rolle 4",
+                                            "cardType": "Literatur",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welche Rolle spielt Mephistopheles im Bezug auf die menschliche Seele von Faust in Faust II?",
+                                              "cardQuizOptions": {
+                                                "a": "Er versucht, Fausts Seele zu retten",
+                                                "b": "Er versucht, Fausts Seele zu gewinnen"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "In Faust II versucht Mephistopheles, die menschliche Seele von Faust zu gewinnen."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles Faust II - Rolle 5",
+                                            "cardType": "Literatur",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wie wird Mephistopheles' Funktion in Faust II oft interpretiert?",
+                                              "cardQuizOptions": {
+                                                "a": "Als Symbol f\u00fcr die dunkle Seite der menschlichen Natur",
+                                                "b": "Als Symbol f\u00fcr die hellen und positiven Aspekte der menschlichen Natur"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Mephistopheles' Funktion in Faust II wird oft als ein Symbol f\u00fcr die dunkle Seite der menschlichen Natur interpretiert."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles Faust II - Rolle 6",
+                                            "cardType": "Literatur",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welche Rolle \u00fcbernimmt Mephistopheles in der Helena-Szene in Faust II?",
+                                              "cardQuizOptions": {
+                                                "a": "Er spielt den Diener von Helena",
+                                                "b": "Er spielt den Verlobten von Helena"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "In der Helena-Szene in Faust II \u00fcbernimmt Mephistopheles die Rolle des Dieners von Helena."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles Faust II - Rolle 7",
+                                            "cardType": "Literatur",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welche Rolle spielt Mephistopheles im Hinblick auf die Macht in Faust II?",
+                                              "cardQuizOptions": {
+                                                "a": "Er repr\u00e4sentiert die Macht des Guten",
+                                                "b": "Er repr\u00e4sentiert die Macht des B\u00f6sen"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "In Faust II repr\u00e4sentiert Mephistopheles die Macht des B\u00f6sen."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles Faust II - Rolle 8",
+                                            "cardType": "Literatur",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Mit welcher Funktion tritt Mephistopheles in der Hochzeitsnacht von Faust und Helena auf?",
+                                              "cardQuizOptions": {
+                                                "a": "Als Bote der schlechten Nachrichten",
+                                                "b": "Als Bote der guten Nachrichten"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "In der Hochzeitsnacht von Faust und Helena in Faust II tritt Mephistopheles als Bote der schlechten Nachrichten auf."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles Faust II - Rolle 9",
+                                            "cardType": "Literatur",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welche Hauptfunktion erf\u00fcllt Mephistopheles in Faust II?",
+                                              "cardQuizOptions": {
+                                                "a": "Er dient als Fausts treuer Begleiter und Freund",
+                                                "b": "Er agiert als Versucher und Manipulator von Faust"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Die Hauptfunktion von Mephistopheles in Faust II ist es, als Versucher und Manipulator von Faust zu agieren."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles Faust II - Rolle 10",
+                                            "cardType": "Literatur",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was symbolisiert die Figur von Mephistopheles in Goethes Faust II?",
+                                              "cardQuizOptions": {
+                                                "a": "Er symbolisiert das Streben nach Wissen und Erkenntnis",
+                                                "b": "Er symbolisiert die Verf\u00fchrungskraft des B\u00f6sen und die menschliche Schw\u00e4che"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Die Figur von Mephistopheles in Goethes Faust II symbolisiert die Verf\u00fchrungskraft des B\u00f6sen und die menschliche Schw\u00e4che."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "cardName": "Mephistopheles in Faust II - Eigenschaften und Charakterz\u00fcge",
+                                        "cardType": "Charakteranalyse - Faust II",
+                                        "cardDesc": "Mephistopheles ist ein sehr vielschichtiger Charakter mit einer Reihe von Eigenschaften und Charakterz\u00fcgen. Er ist listig, schlau und manipulativ, aber auch sarkastisch, zynisch und voller Spott. Trotz seiner Boshaftigkeit hat er aber auch eine gewisse Charme und Witz, was ihn zu einer sehr faszinierenden Figur macht. In Faust II zeigt er zudem eine gewisse Melancholie und Einsamkeit, was seine Figur noch komplexer und tiefer macht.",
+                                        "cardImg": "assets/images/def/Mephistopheles in Faust II - Eigenschaften und Charakterz\u00fcge (Charakteranalyse - Faust II).png",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "Mephistopheles",
+                                            "cardType": "Charakter in Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wie wird Mephistopheles meistens dargestellt?",
+                                              "cardQuizOptions": {
+                                                "a": "Als Engel",
+                                                "b": "Als Teufel"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Mephistopheles wird meist als Teufel dargestellt."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles",
+                                            "cardType": "Charakter in Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was repr\u00e4sentiert Mephistopheles?",
+                                              "cardQuizOptions": {
+                                                "a": "Das Gute in der Welt",
+                                                "b": "Das B\u00f6se in der Welt"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Mephistopheles repr\u00e4sentiert das B\u00f6se in der Welt."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles",
+                                            "cardType": "Charakter in Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welche Eigenschaft zeichnet Mephistopheles besonders aus?",
+                                              "cardQuizOptions": {
+                                                "a": "Seine G\u00fcte",
+                                                "b": "Seine List und T\u00fccke"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Mephistopheles ist bekannt f\u00fcr seine List und T\u00fccke."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles",
+                                            "cardType": "Charakter in Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Von wem wird Mephistopheles in Goethes Faust II besiegt?",
+                                              "cardQuizOptions": {
+                                                "a": "Von Gott",
+                                                "b": "Von Liebe"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Mephistopheles wird von Liebe besiegt, die st\u00e4rker ist als er."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles",
+                                            "cardType": "Charakter in Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was ist das Ziel von Mephistopheles?",
+                                              "cardQuizOptions": {
+                                                "a": "Menschen zum Guten zu f\u00fchren",
+                                                "b": "Menschen in Versuchung zu f\u00fchren und zum B\u00f6sen zu verf\u00fchren"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Mephistopheles versucht, Menschen in Versuchung zu f\u00fchren und zum B\u00f6sen zu verf\u00fchren."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles",
+                                            "cardType": "Charakter in Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wie versucht Mephistopheles, Menschen zu verf\u00fchren?",
+                                              "cardQuizOptions": {
+                                                "a": "Durch Verf\u00fchrung zum Genuss und Versprechen von Macht und Reichtum",
+                                                "b": "Durch Drohungen und Gewalt"
+                                              },
+                                              "cardQuizSolution": "a",
+                                              "cardQuizExplanation": "Mephistopheles verf\u00fchrt durch Versprechen von Genuss, Macht und Reichtum."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles",
+                                            "cardType": "Charakter in Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welche Rolle spielt Mephistopheles in Fausts Leben?",
+                                              "cardQuizOptions": {
+                                                "a": "Er ist Fausts Besch\u00fctzer und Freund",
+                                                "b": "Er ist Fausts Versucher und Feind"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Mephistopheles ist der Versucher und Feind von Faust."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles",
+                                            "cardType": "Charakter in Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Hat Mephistopheles die F\u00e4higkeit, Menschen zu kontrollieren?",
+                                              "cardQuizOptions": {
+                                                "a": "Ja, er hat die absolute Kontrolle \u00fcber Menschen",
+                                                "b": "Nein, er kann Menschen nur verf\u00fchren und sie zu Entscheidungen verleiten, aber die endg\u00fcltige Wahl liegt bei den Menschen selbst"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Mephistopheles kann Menschen verf\u00fchren und beeinflussen, aber die endg\u00fcltige Entscheidung liegt immer bei den Menschen selbst."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles",
+                                            "cardType": "Charakter in Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wie endet Mephistopheles in Faust II?",
+                                              "cardQuizOptions": {
+                                                "a": "Er wird von Gott bestraft und in die H\u00f6lle verbannt",
+                                                "b": "Er wird von der Liebe besiegt und seine Macht schwindet"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Am Ende von Faust II wird Mephistopheles von der Liebe besiegt und seine Macht schwindet."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Mephistopheles",
+                                            "cardType": "Charakter in Faust II",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Wie steht Mephistopheles zu Gott?",
+                                              "cardQuizOptions": {
+                                                "a": "Er hasst Gott und ist sein Feind",
+                                                "b": "Er respektiert Gott und f\u00fcrchtet ihn"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Trotz seiner Rebellion und seinem B\u00f6sen hat Mephistopheles Respekt und sogar Furcht vor Gott."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          }
+                                        ]
+                                      }
+                                    ]
                                   }
                                 ]
                               }
@@ -431,7 +1415,7 @@
                             "image": "assets/images/fact_icon.png",
                             "Decks": [
                               {
-                                "name": "Einführung",
+                                "name": "Einf\u00fchrung",
                                 "image": "assets/images/fact_icon.png",
                                 "Cards": [
                                   {
@@ -441,7 +1425,7 @@
                                       {
                                         "cardName": "Was sind Pronomen?",
                                         "cardType": "Text",
-                                        "cardDesc": "Eine kurze Einführung in Pronomen in der deutschen Grammatik.",
+                                        "cardDesc": "Eine kurze Einf\u00fchrung in Pronomen in der deutschen Grammatik.",
                                         "cardImg": "assets/images/fact_icon.png",
                                         "Quiz": [
                                           {
@@ -450,11 +1434,11 @@
                                             "cardQuiz": {
                                               "cardQuizQuestion": "Was sind Pronomen?",
                                               "cardQuizOptions": {
-                                                "a": "Pronomen sind Wörter, die Tiere und Dinge beschreiben.",
-                                                "b": "Pronomen sind Wörter, die Nomen ersetzen oder auf sie verweisen."
+                                                "a": "Pronomen sind W\u00f6rter, die Tiere und Dinge beschreiben.",
+                                                "b": "Pronomen sind W\u00f6rter, die Nomen ersetzen oder auf sie verweisen."
                                               },
                                               "cardQuizSolution": "b",
-                                              "cardQuizExplanation": "Richtig! Pronomen sind Wörter, die Nomen ersetzen oder auf sie verweisen."
+                                              "cardQuizExplanation": "Richtig! Pronomen sind W\u00f6rter, die Nomen ersetzen oder auf sie verweisen."
                                             },
                                             "cardImg": "URL_FRAGE_1_BILD.png"
                                           },
@@ -462,13 +1446,13 @@
                                             "cardName": "Frage 2",
                                             "cardType": "Question",
                                             "cardQuiz": {
-                                              "cardQuizQuestion": "Was ist ein Beispiel für ein Personalpronomen?",
+                                              "cardQuizQuestion": "Was ist ein Beispiel f\u00fcr ein Personalpronomen?",
                                               "cardQuizOptions": {
                                                 "a": "Haus",
                                                 "b": "Er"
                                               },
                                               "cardQuizSolution": "b",
-                                              "cardQuizExplanation": "Korrekt! 'Er' ist ein Beispiel für ein Personalpronomen."
+                                              "cardQuizExplanation": "Korrekt! 'Er' ist ein Beispiel f\u00fcr ein Personalpronomen."
                                             },
                                             "cardImg": "URL_FRAGE_2_BILD.png"
                                           },
@@ -478,11 +1462,11 @@
                                             "cardQuiz": {
                                               "cardQuizQuestion": "Was ist der Unterschied zwischen einem Demonstrativpronomen und einem Possessivpronomen?",
                                               "cardQuizOptions": {
-                                                "a": "Demonstrativpronomen zeigen auf etwas hin, während Possessivpronomen den Besitz ausdrücken.",
+                                                "a": "Demonstrativpronomen zeigen auf etwas hin, w\u00e4hrend Possessivpronomen den Besitz ausdr\u00fccken.",
                                                 "b": "Es gibt keinen Unterschied zwischen ihnen."
                                               },
                                               "cardQuizSolution": "a",
-                                              "cardQuizExplanation": "Gut gemacht! Demonstrativpronomen zeigen auf etwas hin, während Possessivpronomen den Besitz ausdrücken."
+                                              "cardQuizExplanation": "Gut gemacht! Demonstrativpronomen zeigen auf etwas hin, w\u00e4hrend Possessivpronomen den Besitz ausdr\u00fccken."
                                             },
                                             "cardImg": "URL_FRAGE_3_BILD.png"
                                           }
@@ -491,7 +1475,7 @@
                                       {
                                         "cardName": "Was sind Verben?",
                                         "cardType": "Text",
-                                        "cardDesc": "Eine kurze Einführung in Verben in der deutschen Grammatik.",
+                                        "cardDesc": "Eine kurze Einf\u00fchrung in Verben in der deutschen Grammatik.",
                                         "cardImg": "assets/images/fact_icon.png",
                                         "Quiz": [
                                           {
@@ -500,11 +1484,11 @@
                                             "cardQuiz": {
                                               "cardQuizQuestion": "Was sind Verben?",
                                               "cardQuizOptions": {
-                                                "a": "Verben sind Wörter, die Personen und Orte beschreiben.",
-                                                "b": "Verben sind Wörter, die Handlungen, Zustände oder Vorgänge ausdrücken."
+                                                "a": "Verben sind W\u00f6rter, die Personen und Orte beschreiben.",
+                                                "b": "Verben sind W\u00f6rter, die Handlungen, Zust\u00e4nde oder Vorg\u00e4nge ausdr\u00fccken."
                                               },
                                               "cardQuizSolution": "b",
-                                              "cardQuizExplanation": "Richtig! Verben sind Wörter, die Handlungen, Zustände oder Vorgänge ausdrücken."
+                                              "cardQuizExplanation": "Richtig! Verben sind W\u00f6rter, die Handlungen, Zust\u00e4nde oder Vorg\u00e4nge ausdr\u00fccken."
                                             },
                                             "cardImg": "URL_FRAGE_1_BILD.png"
                                           },
@@ -512,13 +1496,13 @@
                                             "cardName": "Frage 2",
                                             "cardType": "Question",
                                             "cardQuiz": {
-                                              "cardQuizQuestion": "Was ist ein Beispiel für ein starkes Verb im Deutschen?",
+                                              "cardQuizQuestion": "Was ist ein Beispiel f\u00fcr ein starkes Verb im Deutschen?",
                                               "cardQuizOptions": {
                                                 "a": "Spielen",
                                                 "b": "Lesen"
                                               },
                                               "cardQuizSolution": "b",
-                                              "cardQuizExplanation": "Korrekt! 'Lesen' ist ein Beispiel für ein starkes Verb im Deutschen."
+                                              "cardQuizExplanation": "Korrekt! 'Lesen' ist ein Beispiel f\u00fcr ein starkes Verb im Deutschen."
                                             },
                                             "cardImg": "URL_FRAGE_2_BILD.png"
                                           },
@@ -541,7 +1525,7 @@
                                       {
                                         "cardName": "Was sind Adjektive?",
                                         "cardType": "Text",
-                                        "cardDesc": "Eine kurze Einführung in Adjektive in der deutschen Grammatik.",
+                                        "cardDesc": "Eine kurze Einf\u00fchrung in Adjektive in der deutschen Grammatik.",
                                         "cardImg": "assets/images/fact_icon.png",
                                         "Quiz": [
                                           {
@@ -550,11 +1534,11 @@
                                             "cardQuiz": {
                                               "cardQuizQuestion": "Was sind Adjektive?",
                                               "cardQuizOptions": {
-                                                "a": "Adjektive sind Wörter, die Handlungen beschreiben.",
-                                                "b": "Adjektive sind Wörter, die Eigenschaften von Nomen beschreiben."
+                                                "a": "Adjektive sind W\u00f6rter, die Handlungen beschreiben.",
+                                                "b": "Adjektive sind W\u00f6rter, die Eigenschaften von Nomen beschreiben."
                                               },
                                               "cardQuizSolution": "b",
-                                              "cardQuizExplanation": "Richtig! Adjektive sind Wörter, die Eigenschaften von Nomen beschreiben."
+                                              "cardQuizExplanation": "Richtig! Adjektive sind W\u00f6rter, die Eigenschaften von Nomen beschreiben."
                                             },
                                             "cardImg": "URL_FRAGE_1_BILD.png"
                                           },
@@ -565,10 +1549,10 @@
                                               "cardQuizQuestion": "Was ist ein Steigerungsgrad von Adjektiven?",
                                               "cardQuizOptions": {
                                                 "a": "Der Steigerungsgrad von Adjektiven beschreibt, wie oft die Eigenschaft vorhanden ist.",
-                                                "b": "Der Steigerungsgrad von Adjektiven beschreibt die Intensität oder den Vergleich von Eigenschaften."
+                                                "b": "Der Steigerungsgrad von Adjektiven beschreibt die Intensit\u00e4t oder den Vergleich von Eigenschaften."
                                               },
                                               "cardQuizSolution": "b",
-                                              "cardQuizExplanation": "Korrekt! Der Steigerungsgrad von Adjektiven beschreibt die Intensität oder den Vergleich von Eigenschaften."
+                                              "cardQuizExplanation": "Korrekt! Der Steigerungsgrad von Adjektiven beschreibt die Intensit\u00e4t oder den Vergleich von Eigenschaften."
                                             },
                                             "cardImg": "URL_FRAGE_2_BILD.png"
                                           },
@@ -576,13 +1560,13 @@
                                             "cardName": "Frage 3",
                                             "cardType": "Question",
                                             "cardQuiz": {
-                                              "cardQuizQuestion": "Was ist ein Beispiel für ein attributives Adjektiv?",
+                                              "cardQuizQuestion": "Was ist ein Beispiel f\u00fcr ein attributives Adjektiv?",
                                               "cardQuizOptions": {
                                                 "a": "Schnell rennend",
                                                 "b": "Schnell rennt"
                                               },
                                               "cardQuizSolution": "a",
-                                              "cardQuizExplanation": "Gut gemacht! 'Schnell rennend' ist ein Beispiel für ein attributives Adjektiv."
+                                              "cardQuizExplanation": "Gut gemacht! 'Schnell rennend' ist ein Beispiel f\u00fcr ein attributives Adjektiv."
                                             },
                                             "cardImg": "URL_FRAGE_3_BILD.png"
                                           }
@@ -617,20 +1601,20 @@
                                       {
                                         "cardName": "Geradengleichung",
                                         "cardType": "Formel",
-                                        "cardDesc": "Eine Geradengleichung y = m x + n enthält die Steigung x und den Achsenabschnitt b.",
-                                        "cardImg": "assets/images/Default/Gerade_Koordinatenform.PNG",
+                                        "cardDesc": "Eine Geradengleichung y = m x + n enth\u00e4lt die Steigung x und den Achsenabschnitt n.",
+                                        "cardImg": "assets/images/def/Gerade_Koordinatenform.PNG",
                                         "Quiz": [
                                           {
                                             "cardName": "Frage 1",
                                             "cardType": "Question",
                                             "cardQuiz": {
-                                              "cardQuizQuestion": "Wie heißt der Faktor, der in einer Geradengleichung mit der unabhängigen Variable x multipliziert wird?",
+                                              "cardQuizQuestion": "Wie hei\u00dft der Faktor, der in einer Geradengleichung mit der unabh\u00e4ngigen Variable x multipliziert wird?",
                                               "cardQuizOptions": {
                                                 "a": "Achsenabschnitt n",
                                                 "b": "Steigung m"
                                               },
                                               "cardQuizSolution": "b",
-                                              "cardQuizExplanation": "In einer Geradengleichung wird die Steigung m mit der unabhängigen Variable x multipliziert."
+                                              "cardQuizExplanation": "In einer Geradengleichung wird die Steigung m mit der unabh\u00e4ngigen Variable x multipliziert."
                                             }
                                           }
                                         ]
@@ -640,590 +1624,144 @@
                                 ]
                               }
                             ]
+                          },
+                          {
+                            "name": "Lineare Algebra",
+                            "image": "assets/images/boxes0.png",
+                            "Decks": [
+                              {
+                                "name": "Matrizenmultiplikation",
+                                "Cards": [
+                                  {
+                                    "name": "Matrix- und Vektoroperationen",
+                                    "image": "assets/images/cards00.png",
+                                    "Stack": []
+                                  },
+                                  {
+                                    "name": "Determinanten und Inverse Matrizen",
+                                    "image": "assets/images/cards00.png",
+                                    "Stack": []
+                                  },
+                                  {
+                                    "name": "Anwendungen der Matrizenmultiplikation",
+                                    "image": "assets/images/cards00.png",
+                                    "Stack": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Vektorraum",
+                                "Cards": [
+                                  {
+                                    "name": "Vektoraddition und Skalarmultiplikation",
+                                    "image": "assets/images/cards00.png",
+                                    "Stack": []
+                                  },
+                                  {
+                                    "name": "Basis und Dimension eines Vektorraums",
+                                    "image": "assets/images/cards00.png",
+                                    "Stack": []
+                                  },
+                                  {
+                                    "name": "Unterr\u00e4ume und ihre Eigenschaften",
+                                    "image": "assets/images/cards00.png",
+                                    "Stack": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Lineare Unabh\u00e4ngigkeit",
+                                "Cards": [
+                                  {
+                                    "name": "Lineare Abh\u00e4ngigkeit und Unabh\u00e4ngigkeit von Vektoren",
+                                    "image": "assets/images/cards00.png",
+                                    "Stack": []
+                                  },
+                                  {
+                                    "name": "Bestimmung der Basis eines Vektorraums",
+                                    "image": "assets/images/cards00.png",
+                                    "Stack": []
+                                  },
+                                  {
+                                    "name": "Anwendung der linearen Unabh\u00e4ngigkeit in der Computeralgebra",
+                                    "image": "assets/images/cards00.png",
+                                    "Stack": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Stochastik",
+                            "image": "assets/images/boxes0.png",
+                            "Decks": [
+                              {
+                                "name": "Wahrscheinlichkeitsrechnung",
+                                "image": "assets/images/decks0.png",
+                                "Cards": [
+                                  {
+                                    "name": "Zufallsvariablen und Wahrscheinlichkeitsverteilungen",
+                                    "image": "assets/images/cards0.png",
+                                    "Stack": []
+                                  },
+                                  {
+                                    "name": "Bedingte Wahrscheinlichkeit und Unabh\u00e4ngigkeit",
+                                    "image": "assets/images/cards0.png",
+                                    "Stack": []
+                                  },
+                                  {
+                                    "name": "Erwartungswert und Varianz",
+                                    "image": "assets/images/cards0.png",
+                                    "Stack": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Statistik",
+                                "image": "assets/images/decks0.png",
+                                "Cards": [
+                                  {
+                                    "name": "Wahrscheinlichkeitsrechnung",
+                                    "image": "assets/images/cards0.png",
+                                    "Stack": []
+                                  },
+                                  {
+                                    "name": "Hypothesentests",
+                                    "image": "assets/images/cards0.png",
+                                    "Stack": []
+                                  },
+                                  {
+                                    "name": "Regressionanalyse",
+                                    "image": "assets/images/cards0.png",
+                                    "Stack": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Zufallsvariablen",
+                                "image": "assets/images/decks0.png",
+                                "Cards": [
+                                  {
+                                    "name": "Diskrete Zufallsvariablen",
+                                    "image": "assets/images/cards0.png",
+                                    "Stack": []
+                                  },
+                                  {
+                                    "name": "Stetige Zufallsvariablen",
+                                    "image": "assets/images/cards0.png",
+                                    "Stack": []
+                                  },
+                                  {
+                                    "name": "Gemeinsame Verteilungen",
+                                    "image": "assets/images/cards0.png",
+                                    "Stack": []
+                                  }
+                                ]
+                              }
+                            ]
                           }
                         ]
                       }
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        "Browse": {
-          "Boxes": [
-            {
-              "name": "Lekt\u00fcre",
-              "image": "https://cdn-icons-png.flaticon.com/512/2153/2153425.png",
-              "Decks": [
-                {
-                  "name": "Die Leiden des jungen Werther",
-                  "image": "https://static.thenounproject.com/png/1355880-200.png",
-                  "Cards": [
-                    {
-                      "name": "Zusammenfassung",
-                      "image": "https://static.thenounproject.com/png/1355880-200.png",
-                      "Stack": [
-                        {
-                          "cardName": "Ankunft im Dorf",
-                          "cardType": "Buch",
-                          "cardDesc": "Beschreibung von Werthers Ankunft im Dorf und seinen ersten Eindrücken.",
-                          "cardImg": "assets/images/Default/ankunft_im_dorf.jpg",
-                          "Quiz": [
-                            {
-                              "cardName": "Frage 1",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Wie heißt das Dorf, in dem Werther ankommt?",
-                                "cardQuizOptions": {
-                                  "a": "Wetzlar",
-                                  "b": "Weimar"
-                                },
-                                "cardQuizSolution": "a",
-                                "cardQuizExplanation": "Werther kommt im Dorf 'Wetzlar' an und beginnt dort seinen Aufenthalt."
-                              }
-                            },
-                            {
-                              "cardName": "Frage 2",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Welche Landschaft beeindruckt Werther bei seiner Ankunft?",
-                                "cardQuizOptions": {
-                                  "a": "Gebirge",
-                                  "b": "Flussufer"
-                                },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Werther ist bei seiner Ankunft am Flussufer beeindruckt von der malerischen Landschaft."
-                              }
-                            },
-                            {
-                              "cardName": "Frage 3",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Was ist Werthers erster Eindruck von den Dorfbewohnern?",
-                                "cardQuizOptions": {
-                                  "a": "Sie sind freundlich und aufgeschlossen.",
-                                  "b": "Sie sind distanziert und reserviert."
-                                },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Werther empfindet die Dorfbewohner bei seiner Ankunft als distanziert und reserviert."
-                              }
-                            }
-                          ]
-                        },
-                        {
-                          "cardName": "Begegnung mit Lotte",
-                          "cardType": "Buch",
-                          "cardDesc": "Beschreibung von Werthers erster Begegnung mit Lotte und seinen Gefühlen für sie.",
-                          "cardImg": "assets/images/Default/lotte.jpg",
-                          "Quiz": [
-                            {
-                              "cardName": "Frage 1",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Welchen Eindruck hinterlässt Lotte auf Werther bei ihrer ersten Begegnung?",
-                                "cardQuizOptions": {
-                                  "a": "Sie ist unhöflich und abweisend.",
-                                  "b": "Sie ist freundlich und bezaubernd."
-                                },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Lotte hinterlässt auf Werther bei ihrer ersten Begegnung einen positiven Eindruck und erscheint ihm freundlich und bezaubernd."
-                              }
-                            },
-                            {
-                              "cardName": "Frage 2",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Welche Blume verbindet Werther mit Lotte?",
-                                "cardQuizOptions": {
-                                  "a": "Rosen",
-                                  "b": "Veilchen"
-                                },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Werther verbindet die Blume 'Veilchen' mit Lotte, da sie ihm diese in Erinnerung bleibt."
-                              }
-                            },
-                            {
-                              "cardName": "Frage 3",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Was empfindet Werther für Lotte nach ihrer ersten Begegnung?",
-                                "cardQuizOptions": {
-                                  "a": "Geschwisterliche Liebe",
-                                  "b": "Leidenschaftliche Liebe"
-                                },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Nach ihrer ersten Begegnung empfindet Werther leidenschaftliche Liebe für Lotte."
-                              }
-                            }
-                          ]
-                        },
-                        {
-                          "cardName": "Werthers Tragödie",
-                          "cardType": "Buch",
-                          "cardDesc": "Beschreibung von Werthers tragischem Schicksal und seinem inneren Konflikt.",
-                          "cardImg": "assets/images/Default/werther.jpg",
-                          "Quiz": [
-                            {
-                              "cardName": "Frage 1",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Was führt letztendlich zu Werthers tragischem Ende?",
-                                "cardQuizOptions": {
-                                  "a": "Ein Unfall",
-                                  "b": "Liebeskummer und Selbstmord"
-                                },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Werthers tragisches Ende resultiert aus Liebeskummer und seinem Selbstmord."
-                              }
-                            },
-                            {
-                              "cardName": "Frage 2",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Was symbolisiert die Natur in Werthers innerem Konflikt?",
-                                "cardQuizOptions": {
-                                  "a": "Hoffnung",
-                                  "b": "Zerstörung"
-                                },
-                                "cardQuizSolution": "a",
-                                "cardQuizExplanation": "Die Natur symbolisiert in Werthers innerem Konflikt Hoffnung und Verzweiflung zugleich."
-                              }
-                            },
-                            {
-                              "cardName": "Frage 3",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Warum kann Werther seine Liebe zu Lotte nicht leben?",
-                                "cardQuizOptions": {
-                                  "a": "Lotte ist bereits verheiratet.",
-                                  "b": "Lotte liebt einen anderen Mann."
-                                },
-                                "cardQuizSolution": "a",
-                                "cardQuizExplanation": "Werther kann seine Liebe zu Lotte nicht leben, da diese bereits verheiratet ist und er darunter leidet."
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "Faust I",
-                  "image": "https://cdn-icons-png.flaticon.com/512/1527/1527443.png",
-                  "Cards": [
-                    {
-                      "name": "Die Gelehrtentrag\u00f6die",
-                      "image": "https://cdn-icons-png.flaticon.com/512/2889/2889078.png",
-                      "Stack": [
-                        {
-                          "cardName": "Gelehrtentrag\u00f6die",
-                          "cardType": "Begriff",
-                          "cardDesc": "Eine Form des Drama innerhalb von Goethes 'Faust 1', die Fausts inneren Konflikt zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und Erf\u00fcllung darstellt.",
-                          "cardImg": "assets/images/Default/studierzimmer.jpg",
-                          "Quiz": [
-                            {
-                              "cardName": "Frage 1",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Was ist das Hauptthema der Gelehrtentrag\u00f6die in Goethes 'Faust 1'?",
-                                "cardQuizOptions": {
-                                  "a": "Die Suche nach Liebe und Gl\u00fcck",
-                                  "b": "Der Konflikt zwischen Wissenschaft und Sehnsucht nach Sinn"
-                                },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Die Gelehrtentrag\u00f6die in 'Faust 1' dreht sich haupts\u00e4chlich um den inneren Konflikt von Faust zwischen seinen wissenschaftlichen Ambitionen und seinem Streben nach Sinn und Erf\u00fcllung."
-                              },
-                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                            },
-                            {
-                              "cardName": "Frage 2",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Wer ist Fausts Assistent in der Gelehrtentrag\u00f6die?",
-                                "cardQuizOptions": {
-                                  "a": "Mephistopheles",
-                                  "b": "Wagner"
-                                },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Wagner ist Fausts Assistent in der Gelehrtentrag\u00f6die, und er verk\u00f6rpert einen Kontrast zu Faust in Bezug auf seine akademischen Studien."
-                              },
-                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                            },
-                            {
-                              "cardName": "Frage 3",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Welcher Schauplatz ist f\u00fcr die Gelehrtentrag\u00f6die in 'Faust 1' besonders bedeutend?",
-                                "cardQuizOptions": {
-                                  "a": "Das Dorf",
-                                  "b": "Das Studierzimmer"
-                                },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Das Studierzimmer ist der zentrale Schauplatz f\u00fcr die Gelehrtentrag\u00f6die in 'Faust 1' und symbolisiert Fausts inneren Konflikt und seine Suche nach Wissen und Sinn."
-                              },
-                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                            },
-                            {
-                              "cardName": "Frage 4",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Welche Rolle spielt Mephistopheles in der Gelehrtentrag\u00f6die?",
-                                "cardQuizOptions": {
-                                  "a": "Er ist Fausts bester Freund",
-                                  "b": "Er ist der Teufel, der Faust verf\u00fchrt und begleitet"
-                                },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Mephistopheles ist der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer f\u00fchrt, was zu Fausts innerem Konflikt beitr\u00e4gt."
-                              },
-                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                            },
-                            {
-                              "cardName": "Frage 5",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Was ist das Ergebnis von Fausts Streben in der Gelehrtentrag\u00f6die?",
-                                "cardQuizOptions": {
-                                  "a": "Er erreicht ewiges Gl\u00fcck und Frieden",
-                                  "b": "Er bleibt unzufrieden und verzweifelt"
-                                },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "In der Gelehrtentrag\u00f6die bleibt Faust unzufrieden und verzweifelt, da er keine dauerhafte Erf\u00fcllung in seinen wissenschaftlichen Bem\u00fchungen findet."
-                              },
-                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                            }
-                          ]
-                        },
-                        {
-                          "cardName": "Faust",
-                          "cardType": "Charakter",
-                          "cardDesc": "Die Hauptfigur des Dramas, ein Gelehrter, der unzufrieden mit seinem Leben ist und einen Pakt mit dem Teufel Mephistopheles eingeht.",
-                          "cardImg": "assets/images/Default/faust.jpg",
-                          "Quiz": [
-                            {
-                              "cardName": "Frage 1",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Was ist Fausts beruflicher Hintergrund?",
-                                "cardQuizOptions": {
-                                  "a": "Arzt",
-                                  "b": "Gelehrter"
-                                },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Faust ist ein Gelehrter, der verzweifelt nach tieferem Wissen und Verständnis strebt."
-                              },
-                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                            },
-                            {
-                              "cardName": "Frage 2",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "In welchem Zustand befindet sich Faust zu Beginn des Dramas?",
-                                "cardQuizOptions": {
-                                  "a": "Zufrieden und erfüllt",
-                                  "b": "Verzweifelt und unzufrieden"
-                                },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Faust ist zu Beginn des Dramas verzweifelt und unzufrieden mit seinem Leben und seiner Suche nach Wissen."
-                              },
-                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                            },
-                            {
-                              "cardName": "Frage 3",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Womit droht Faust, bevor er den Pakt mit Mephistopheles schließt?",
-                                "cardQuizOptions": {
-                                  "a": "Seinen Ruf zu ruinieren",
-                                  "b": "Selbstmord"
-                                },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Faust erwägt Selbstmord aufgrund seiner tiefen Unzufriedenheit und Verzweiflung, bevor er den Pakt mit Mephistopheles eingeht."
-                              },
-                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                            },
-                            {
-                              "cardName": "Frage 4",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Was verspricht Mephistopheles Faust im Austausch für seine Seele?",
-                                "cardQuizOptions": {
-                                  "a": "Unsterblichkeit",
-                                  "b": "Unbegrenzte Erkenntnis und Vergnügen"
-                                },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Mephistopheles verspricht Faust unbegrenzte Erkenntnis und Vergnügen im Austausch für seine Seele."
-                              },
-                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                            },
-                            {
-                              "cardName": "Frage 5",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Welche Bedingung stellt Faust für den Pakt mit Mephistopheles?",
-                                "cardQuizOptions": {
-                                  "a": "Er will der mächtigste Mensch auf Erden werden",
-                                  "b": "Er will einen Moment erleben, den er nicht loslassen möchte"
-                                },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Faust stellt die Bedingung, dass Mephistopheles ihm einen Moment bieten muss, den er so sehr genießt, dass er wünscht, er möge ewig dauern."
-                              },
-                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                            }
-                          ]
-                        },
-                        {
-                          "cardName": "Mephistopheles",
-                          "cardType": "Charakter",
-                          "cardDesc": "Der Teufel, der einen Pakt mit Faust eingeht und ihn auf verschiedene Abenteuer f\u00fchrt.",
-                          "cardImg": "assets/images/Default/mephisto.jpg",
-                          "Quiz": [
-                            {
-                              "cardName": "Frage 1",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Wie wird Mephistopheles erstmals in 'Faust' eingeführt?",
-                                "cardQuizOptions": {
-                                  "a": "Als ein Geist",
-                                  "b": "Als ein schwarzer Pudel"
-                                },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Mephistopheles tritt zuerst in der Gestalt eines schwarzen Pudels auf, als er Faust auf seinem Spaziergang begleitet."
-                              },
-                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                            },
-                            {
-                              "cardName": "Frage 2",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Was repräsentiert Mephistopheles in 'Faust'?",
-                                "cardQuizOptions": {
-                                  "a": "Das Streben nach Tugend",
-                                  "b": "Das Prinzip des Bösen"
-                                },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Mephistopheles repräsentiert das Prinzip des Bösen und die Versuchung, sich von moralischen Werten abzuwenden."
-                              },
-                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                            },
-                            {
-                              "cardName": "Frage 3",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Wie charakterisiert Mephistopheles sich selbst in 'Faust'?",
-                                "cardQuizOptions": {
-                                  "a": "Als Teil der Kraft, die stets das Böse will und stets das Gute schafft",
-                                  "b": "Als ein einfacher Diener des Himmels"
-                                },
-                                "cardQuizSolution": "a",
-                                "cardQuizExplanation": "Mephistopheles beschreibt sich selbst als einen Teil der Kraft, die stets das Böse will und stets das Gute schafft, was seine komplexe Natur hervorhebt."
-                              },
-                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                            },
-                            {
-                              "cardName": "Frage 4",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Welches Ziel verfolgt Mephistopheles mit seinem Pakt mit Faust?",
-                                "cardQuizOptions": {
-                                  "a": "Fausts Seele zu gewinnen",
-                                  "b": "Die Welt zu beherrschen"
-                                },
-                                "cardQuizSolution": "a",
-                                "cardQuizExplanation": "Mephistopheles' Hauptziel in seinem Pakt mit Faust ist es, Fausts Seele zu gewinnen."
-                              },
-                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                            },
-                            {
-                              "cardName": "Frage 5",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Wie reagiert Mephistopheles auf Fausts Verzweiflung und Selbstmordgedanken?",
-                                "cardQuizOptions": {
-                                  "a": "Mit Gleichgültigkeit",
-                                  "b": "Mit Versprechungen und Verlockungen"
-                                },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Mephistopheles reagiert auf Fausts Verzweiflung und Selbstmordgedanken mit Versprechungen und Verlockungen, um ihn von seinem Vorhaben abzubringen und seinen Pakt zu sichern."
-                              },
-                              "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "name": "Die Gretchentrag\u00f6die",
-                      "image": "https://cdn-icons-png.flaticon.com/512/47/47038.png"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Grammatik",
-              "image": "assets/images/fact_icon.png",
-              "Decks": [
-                {
-                  "name": "Einführung",
-                  "image": "assets/images/fact_icon.png",
-                  "Cards": [
-                    {
-                      "name": "Wortarten",
-                      "image": "assets/images/fact_icon.png",
-                      "Stack": [
-                        {
-                          "cardName": "Was sind Pronomen?",
-                          "cardType": "Text",
-                          "cardDesc": "Eine kurze Einführung in Pronomen in der deutschen Grammatik.",
-                          "cardImg": "assets/images/fact_icon.png",
-                          "Quiz": [
-                            {
-                              "cardName": "Frage 1",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Was sind Pronomen?",
-                                "cardQuizOptions": {
-                                  "a": "Pronomen sind Wörter, die Tiere und Dinge beschreiben.",
-                                  "b": "Pronomen sind Wörter, die Nomen ersetzen oder auf sie verweisen."
-                                },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Richtig! Pronomen sind Wörter, die Nomen ersetzen oder auf sie verweisen."
-                              },
-                              "cardImg": "URL_FRAGE_1_BILD.png"
-                            },
-                            {
-                              "cardName": "Frage 2",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Was ist ein Beispiel für ein Personalpronomen?",
-                                "cardQuizOptions": {
-                                  "a": "Haus",
-                                  "b": "Er"
-                                },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Korrekt! 'Er' ist ein Beispiel für ein Personalpronomen."
-                              },
-                              "cardImg": "URL_FRAGE_2_BILD.png"
-                            },
-                            {
-                              "cardName": "Frage 3",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Was ist der Unterschied zwischen einem Demonstrativpronomen und einem Possessivpronomen?",
-                                "cardQuizOptions": {
-                                  "a": "Demonstrativpronomen zeigen auf etwas hin, während Possessivpronomen den Besitz ausdrücken.",
-                                  "b": "Es gibt keinen Unterschied zwischen ihnen."
-                                },
-                                "cardQuizSolution": "a",
-                                "cardQuizExplanation": "Gut gemacht! Demonstrativpronomen zeigen auf etwas hin, während Possessivpronomen den Besitz ausdrücken."
-                              },
-                              "cardImg": "URL_FRAGE_3_BILD.png"
-                            }
-                          ]
-                        },
-                        {
-                          "cardName": "Was sind Verben?",
-                          "cardType": "Text",
-                          "cardDesc": "Eine kurze Einführung in Verben in der deutschen Grammatik.",
-                          "cardImg": "assets/images/fact_icon.png",
-                          "Quiz": [
-                            {
-                              "cardName": "Frage 1",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Was sind Verben?",
-                                "cardQuizOptions": {
-                                  "a": "Verben sind Wörter, die Personen und Orte beschreiben.",
-                                  "b": "Verben sind Wörter, die Handlungen, Zustände oder Vorgänge ausdrücken."
-                                },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Richtig! Verben sind Wörter, die Handlungen, Zustände oder Vorgänge ausdrücken."
-                              },
-                              "cardImg": "URL_FRAGE_1_BILD.png"
-                            },
-                            {
-                              "cardName": "Frage 2",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Was ist ein Beispiel für ein starkes Verb im Deutschen?",
-                                "cardQuizOptions": {
-                                  "a": "Spielen",
-                                  "b": "Lesen"
-                                },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Korrekt! 'Lesen' ist ein Beispiel für ein starkes Verb im Deutschen."
-                              },
-                              "cardImg": "URL_FRAGE_2_BILD.png"
-                            },
-                            {
-                              "cardName": "Frage 3",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Wie werden Verben in der imperativen Form konjugiert?",
-                                "cardQuizOptions": {
-                                  "a": "In der imperativen Form werden Verben in der dritten Person Singular konjugiert.",
-                                  "b": "In der imperativen Form werden Verben in der Grundform (Infinitiv) ohne das Subjekt konjugiert."
-                                },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Gut gemacht! In der imperativen Form werden Verben in der Grundform (Infinitiv) ohne das Subjekt konjugiert."
-                              },
-                              "cardImg": "URL_FRAGE_3_BILD.png"
-                            }
-                          ]
-                        },
-                        {
-                          "cardName": "Was sind Adjektive?",
-                          "cardType": "Text",
-                          "cardDesc": "Eine kurze Einführung in Adjektive in der deutschen Grammatik.",
-                          "cardImg": "assets/images/fact_icon.png",
-                          "Quiz": [
-                            {
-                              "cardName": "Frage 1",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Was sind Adjektive?",
-                                "cardQuizOptions": {
-                                  "a": "Adjektive sind Wörter, die Handlungen beschreiben.",
-                                  "b": "Adjektive sind Wörter, die Eigenschaften von Nomen beschreiben."
-                                },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Richtig! Adjektive sind Wörter, die Eigenschaften von Nomen beschreiben."
-                              },
-                              "cardImg": "URL_FRAGE_1_BILD.png"
-                            },
-                            {
-                              "cardName": "Frage 2",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Was ist ein Steigerungsgrad von Adjektiven?",
-                                "cardQuizOptions": {
-                                  "a": "Der Steigerungsgrad von Adjektiven beschreibt, wie oft die Eigenschaft vorhanden ist.",
-                                  "b": "Der Steigerungsgrad von Adjektiven beschreibt die Intensität oder den Vergleich von Eigenschaften."
-                                },
-                                "cardQuizSolution": "b",
-                                "cardQuizExplanation": "Korrekt! Der Steigerungsgrad von Adjektiven beschreibt die Intensität oder den Vergleich von Eigenschaften."
-                              },
-                              "cardImg": "URL_FRAGE_2_BILD.png"
-                            },
-                            {
-                              "cardName": "Frage 3",
-                              "cardType": "Question",
-                              "cardQuiz": {
-                                "cardQuizQuestion": "Was ist ein Beispiel für ein attributives Adjektiv?",
-                                "cardQuizOptions": {
-                                  "a": "Schnell rennend",
-                                  "b": "Schnell rennt"
-                                },
-                                "cardQuizSolution": "a",
-                                "cardQuizExplanation": "Gut gemacht! 'Schnell rennend' ist ein Beispiel für ein attributives Adjektiv."
-                              },
-                              "cardImg": "URL_FRAGE_3_BILD.png"
-                            }
-                          ]
-                        }
-                      ]
                     }
                   ]
                 }
@@ -1239,29 +1777,29 @@
           "Libraries": [
             {
               "name": "Reglemente / Handb\u00fccher / Richtlinien",
-              "image": "assets/images/FKS/Handbuecher.png",
+              "image": "assets/images/fks/Handbuecher.png",
               "Cases": [
                 {
                   "name": "ABC-Eins\u00e4tze",
-                  "image": "assets/images/FKS/ABC-Eins\u00e4tze.png",
+                  "image": "assets/images/fks/ABC-Eins\u00e4tze.png",
                   "Books": [
                     {
                       "name": "Handbuch f\u00fcr ABC-Eins\u00e4tze",
-                      "image": "assets/images/FKS/ABC Handbuch DE.png"
+                      "image": "assets/images/fks/ABC Handbuch DE.png"
                     },
                     {
                       "name": "Faltkarten f\u00fcr ABC-Eins\u00e4tze",
-                      "image": "assets/images/FKS/ABCFaltkartenDE.png"
+                      "image": "assets/images/fks/ABCFaltkartenDE.png"
                     }
                   ]
                 },
                 {
                   "name": "Basiswissen",
-                  "image": "assets/images/FKS/Basiswissen DE.png",
+                  "image": "assets/images/fks/Basiswissen DE.png",
                   "Books": [
                     {
                       "name": "Basiswissen",
-                      "image": "assets/images/FKS/Reglement Basiswissen DE.png",
+                      "image": "assets/images/fks/Reglement Basiswissen DE.png",
                       "Browse": {
                         "Boxes": [
                           {
@@ -1291,8 +1829,9 @@
                                   }
                                 ]
                               },
-                              {"name": "1.3 Löschwasser",
-                                "image":  "https://media.istockphoto.com/id/627149672/de/vektor/bluttropfen-symbol.jpg?s=612x612&w=0&k=20&c=rb34X52v0MeMdnZJy-kcbOSD4JtMW_PxAkFnBQytvzw=",
+                              {
+                                "name": "1.3 L\u00f6schwasser",
+                                "image": "https://media.istockphoto.com/id/627149672/de/vektor/bluttropfen-symbol.jpg?s=612x612&w=0&k=20&c=rb34X52v0MeMdnZJy-kcbOSD4JtMW_PxAkFnBQytvzw=",
                                 "Cards": [
                                   {
                                     "name": "Begriffe",
@@ -1302,7 +1841,7 @@
                                         "cardName": "Durchflussmengen",
                                         "cardType": "Begriff",
                                         "cardDesc": "Leistung der Versorgung, \u00fcblicherweise in Liter pro Minute angegeben.",
-                                        "cardImg": "assets/images/FKS/22edcd54-b2a1-4e6c-b1da-392f39b783b7.webp",
+                                        "cardImg": "assets/images/fks/22edcd54-b2a1-4e6c-b1da-392f39b783b7.webp",
                                         "Quiz": [
                                           {
                                             "cardName": "Frage 1",
@@ -1380,29 +1919,30 @@
                                         "cardName": "Hydrant",
                                         "cardType": "Begriff",
                                         "cardDesc": "Wasserentnahmearmatur zur Brandbek\u00e4mpfung.",
-                                        "cardImg": "assets/images/FKS/346b7878-e6fa-4e61-97e5-68c436a07ad5.webp"
+                                        "cardImg": "assets/images/fks/346b7878-e6fa-4e61-97e5-68c436a07ad5.webp"
                                       },
                                       {
                                         "cardName": "L\u00f6schwasser",
                                         "cardType": "Begriff",
                                         "cardDesc": "Wasser, das zum Bek\u00e4mpfen von Br\u00e4nden dient.",
-                                        "cardImg": "assets/images/FKS/0e485914-d742-4e4f-90b0-9463bd220db5.webp"
+                                        "cardImg": "assets/images/fks/0e485914-d742-4e4f-90b0-9463bd220db5.webp"
                                       },
                                       {
                                         "cardName": "Seewasserwerke",
                                         "cardType": "Begriff",
                                         "cardDesc": "Anlagen zur Aufbereitung von Seewasser zu Trinkwasser.",
-                                        "cardImg": "assets/images/FKS/8accdc4e-2dad-4fce-9bf0-113abae1ecc6.webp"
+                                        "cardImg": "assets/images/fks/8accdc4e-2dad-4fce-9bf0-113abae1ecc6.webp"
                                       },
                                       {
                                         "cardName": "Reservoir",
                                         "cardType": "Begriff",
                                         "cardDesc": "Speicher f\u00fcr Trink-, Brauch- und L\u00f6schwasser.",
-                                        "cardImg": "assets/images/FKS/4c01f33f-ae8e-40bb-a622-5da0d5b55825.webp"
+                                        "cardImg": "assets/images/fks/4c01f33f-ae8e-40bb-a622-5da0d5b55825.webp"
                                       }
                                     ]
                                   }
-                                ]}
+                                ]
+                              }
                             ]
                           },
                           {
@@ -1739,11 +2279,11 @@
                 },
                 {
                   "name": "Gesch\u00e4ftsberichte",
-                  "image": "assets/images/FKS/FKS_Geschaeftsberichte.png",
+                  "image": "assets/images/fks/FKS_Geschaeftsberichte.png",
                   "Books": [
                     {
                       "name": "FKS Gesch\u00e4ftsbericht 2022",
-                      "image": "assets/images/FKS/FKS_Geschaeftsbericht_2022_de.png"
+                      "image": "assets/images/fks/FKS_Geschaeftsbericht_2022_de.png"
                     }
                   ]
                 }
@@ -1759,7 +2299,7 @@
           "Libraries": [
             {
               "name": "St. Moritz",
-              "image": "assets/images/Grace/st. moritz.png",
+              "image": "assets/images/grace/st. moritz.png",
               "Cases": [
                 {
                   "name": "Urlaub",
@@ -1772,7 +2312,7 @@
                         "Boxes": [
                           {
                             "name": "Hotel Grace",
-                            "image": "assets/images/Grace/hotel-grace-logo.png",
+                            "image": "assets/images/grace/hotel-grace-logo.png",
                             "Decks": [
                               {
                                 "name": "Tourismus Infos",
@@ -1780,13 +2320,13 @@
                                 "Cards": [
                                   {
                                     "name": "St. Moritz",
-                                    "image": "assets/images/Grace/st. moritz.png",
+                                    "image": "assets/images/grace/st. moritz.png",
                                     "Stack": [
                                       {
                                         "cardName": "St. Moritz",
                                         "cardType": "Aktivit\u00e4t",
-                                        "cardDesc": "St. Moritz ist ein luxuriöser alpiner Ferienort im schweizerischen Tal Engadin.",
-                                        "cardImg": "assets/images/Grace/st. moritz.png",
+                                        "cardDesc": "St. Moritz ist ein luxuri\u00f6ser alpiner Ferienort im schweizerischen Tal Engadin.",
+                                        "cardImg": "assets/images/grace/st. moritz.png",
                                         "Quiz": [
                                           {
                                             "cardName": "Frage 1",
@@ -1864,13 +2404,13 @@
                                         "cardName": "Polo on Snow",
                                         "cardType": "Veranstaltung",
                                         "cardDesc": "Das 'Polo on Snow' ist eine exklusive Veranstaltung in St. Moritz, bei der internationale Polo-Spieler auf dem gefrorenen St. Moritzersee Polo spielen.",
-                                        "cardImg": "assets/images/Grace/polo on snow.jpg"
+                                        "cardImg": "assets/images/grace/polo on snow.jpg"
                                       },
                                       {
                                         "cardName": "Luxusresorts",
                                         "cardType": "Unterkunft",
                                         "cardDesc": "St. Moritz ist ber\u00fchmt f\u00fcr seine luxuri\u00f6sen Resorts und Hotels, die G\u00e4sten einen erstklassigen Service und Komfort bieten.",
-                                        "cardImg": "assets/images/Grace/hotel grace luxus.jpg"
+                                        "cardImg": "assets/images/grace/hotel grace luxus.jpg"
                                       }
                                     ]
                                   },
@@ -1879,10 +2419,94 @@
                                     "image": "https://cdn.getyourguide.com/img/tour/881684b695add9d7.jpeg/146.jpg",
                                     "Stack": [
                                       {
-                                        "cardName": "Wintersport",
-                                        "cardType": "Sportangebot",
-                                        "cardDesc": "St. Moritz ist ein beliebtes Ziel für Wintersportaktivitäten wie Skifahren, Snowboarden, Eislaufen und Curling, dank seiner erstklassigen Pisten und Eisbahnen.",
-                                        "cardImg": "assets/images/Grace/wintersport.png"
+                                        "cardName": "St. Moritz",
+                                        "cardType": "Aktivit\u00e4t",
+                                        "cardDesc": "St. Moritz ist ein luxuri\u00f6ser alpiner Ferienort im schweizerischen Tal Engadin.",
+                                        "cardImg": "assets/images/grace/st. moritz.png",
+                                        "Quiz": [
+                                          {
+                                            "cardName": "Frage 1",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "In welchem schweizerischen Kanton befindet sich St. Moritz?",
+                                              "cardQuizOptions": {
+                                                "a": "Bern",
+                                                "b": "Graub\u00fcnden"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "St. Moritz befindet sich im Kanton Graub\u00fcnden in der Schweiz."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 2",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welche Art von Tourismus ist in St. Moritz besonders bekannt?",
+                                              "cardQuizOptions": {
+                                                "a": "Strandtourismus",
+                                                "b": "Wintersporttourismus"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "St. Moritz ist besonders f\u00fcr den Wintersporttourismus bekannt, insbesondere f\u00fcr Skifahren und Snowboarden."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 3",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welche der folgenden Veranstaltungen findet regelm\u00e4\u00dfig in St. Moritz statt?",
+                                              "cardQuizOptions": {
+                                                "a": "Internationales Filmfestival",
+                                                "b": "Polo on Snow"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "Das 'Polo on Snow' ist eine bekannte Veranstaltung, die regelm\u00e4\u00dfig in St. Moritz stattfindet und internationale Polo-Spieler anzieht."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 4",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Was macht St. Moritz zu einem beliebten Reiseziel f\u00fcr Reiche und Prominente?",
+                                              "cardQuizOptions": {
+                                                "a": "G\u00fcnstige Preise",
+                                                "b": "Exklusive Luxusresorts und -hotels"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "St. Moritz ist bekannt f\u00fcr seine exklusiven Luxusresorts und -hotels, die es zu einem begehrten Reiseziel f\u00fcr Reiche und Prominente machen."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          },
+                                          {
+                                            "cardName": "Frage 5",
+                                            "cardType": "Question",
+                                            "cardQuiz": {
+                                              "cardQuizQuestion": "Welche Sprache wird in St. Moritz haupts\u00e4chlich gesprochen?",
+                                              "cardQuizOptions": {
+                                                "a": "Franz\u00f6sisch",
+                                                "b": "R\u00e4toromanisch und Deutsch"
+                                              },
+                                              "cardQuizSolution": "b",
+                                              "cardQuizExplanation": "In St. Moritz werden haupts\u00e4chlich R\u00e4toromanisch und Deutsch gesprochen, aufgrund seiner Lage im Kanton Graub\u00fcnden."
+                                            },
+                                            "cardImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/768px-Blue_question_mark_icon.svg.png"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "cardName": "Polo on Snow",
+                                        "cardType": "Veranstaltung",
+                                        "cardDesc": "Das 'Polo on Snow' ist eine exklusive Veranstaltung in St. Moritz, bei der internationale Polo-Spieler auf dem gefrorenen St. Moritzersee Polo spielen.",
+                                        "cardImg": "assets/images/grace/polo on snow.jpg"
+                                      },
+                                      {
+                                        "cardName": "Luxusresorts",
+                                        "cardType": "Unterkunft",
+                                        "cardDesc": "St. Moritz ist ber\u00fchmt f\u00fcr seine luxuri\u00f6sen Resorts und Hotels, die G\u00e4sten einen erstklassigen Service und Komfort bieten.",
+                                        "cardImg": "assets/images/grace/hotel grace luxus.jpg"
                                       }
                                     ]
                                   }
@@ -1894,13 +2518,13 @@
                                 "Cards": [
                                   {
                                     "name": "Organizational Culture",
-                                    "image": "assets/images/Grace/organizational_culture.webp",
+                                    "image": "assets/images/grace/organizational_culture.webp",
                                     "Stack": [
                                       {
                                         "cardName": "Organizational Culture",
                                         "cardType": "InfoCard",
                                         "cardDesc": "Organizational culture is like the personality and soul of our company. It's what makes us unique. It is our shared set of values, beliefs, and behaviors that define how we operate.",
-                                        "cardImg": "assets/images/Grace/organizational_culture.webp",
+                                        "cardImg": "assets/images/grace/organizational_culture.webp",
                                         "Quiz": [
                                           {
                                             "cardName": "Frage 1",
@@ -1922,13 +2546,13 @@
                                         "cardName": "The Vibe",
                                         "cardType": "InfoCard",
                                         "cardDesc": "Imagine organizational culture as the \"vibe\" or atmosphere in your workplace. It includes the beliefs, values, and how people interact within an organization. It sets the tone for how work is done and how employees relate to each other.",
-                                        "cardImg": "assets/images/Grace/organizational_culture.webp"
+                                        "cardImg": "assets/images/grace/organizational_culture.webp"
                                       },
                                       {
                                         "cardName": "Belonging and Purpose",
                                         "cardType": "InfoCard",
                                         "cardDesc": "A strong culture can create a sense of belonging and purpose among employees and a unique, unforgettable experience for our clients. It comprises the guiding principles for every interaction, both within our team and with our business partners.",
-                                        "cardImg": "assets/images/Grace/organizational_culture.webp"
+                                        "cardImg": "assets/images/grace/organizational_culture.webp"
                                       }
                                     ]
                                   }
@@ -1957,7 +2581,7 @@
               "Cases": [
                 {
                   "name": "Grundlagen",
-                  "image": "assets/images/IBK-Snow/basics.png",
+                  "image": "assets/images/ibk-snow/basics.png",
                   "Books": [
                     {
                       "name": "Einf\u00fchrung ins Snowboarden",
@@ -1966,7 +2590,7 @@
                         "Boxes": [
                           {
                             "name": "IBK-Snow",
-                            "image": "assets/images/IBK-Snow/600-resize-of-Logo IBK-Snow.webp",
+                            "image": "assets/images/ibk-snow/600-resize-of-Logo IBK-Snow.webp",
                             "Decks": [
                               {
                                 "name": "Theorie",
@@ -1980,7 +2604,7 @@
                                         "cardName": "Snowboarden",
                                         "cardType": "Sport",
                                         "cardDesc": "Snowboarden ist eine beliebte Wintersportart, bei der die Teilnehmer auf einem Snowboard stehen und die Abh\u00e4nge hinunterfahren. Es kombiniert Elemente des Surfens und Skateboardens auf Schnee.",
-                                        "cardImg": "assets/images/IBK-Snow/1024-resize-of-69262f98-a2cb-4854-a3ca-a256bbb4e09c..webp",
+                                        "cardImg": "assets/images/ibk-snow/1024-resize-of-69262f98-a2cb-4854-a3ca-a256bbb4e09c..webp",
                                         "Quiz": [
                                           {
                                             "cardName": "Frage 1",
@@ -2058,13 +2682,13 @@
                                         "cardName": "Snowboard",
                                         "cardType": "Ausr\u00fcstung",
                                         "cardDesc": "Ein Snowboard ist das Hauptinstrument beim Snowboarden. Es ist ein flaches Brett mit Bindungen, auf dem der Fahrer steht und sich damit fortbewegt, indem er sein Gewicht verlagert.",
-                                        "cardImg": "assets/images/IBK-Snow/1024-resize-of-69262f98-a2cb-4854-a3ca-a256bbb4e09c..webp"
+                                        "cardImg": "assets/images/ibk-snow/1024-resize-of-69262f98-a2cb-4854-a3ca-a256bbb4e09c..webp"
                                       },
                                       {
                                         "cardName": "Halfpipe",
                                         "cardType": "Fahrtstrecke",
                                         "cardDesc": "Eine Halfpipe ist eine speziell geformte Schneer\u00f6hre oder Rampe, die von Snowboardern genutzt wird, um akrobatische Tricks und Spr\u00fcnge auszuf\u00fchren. Halfpipes sind Teil von Snowparks.",
-                                        "cardImg": "assets/images/IBK-Snow/1024-resize-of-69262f98-a2cb-4854-a3ca-a256bbb4e09c..webp"
+                                        "cardImg": "assets/images/ibk-snow/1024-resize-of-69262f98-a2cb-4854-a3ca-a256bbb4e09c..webp"
                                       }
                                     ]
                                   }
