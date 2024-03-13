@@ -44455,11 +44455,11 @@ B.b.S(s,j)
 r=m.x
 if(r!=null){q=$.hZ
 p=A.h5(10)
-r=A.bw(r,l,l,l,l,A.bp(l,l,$.cY,l,l,l,l,l,l,l,l,18,l,l,B.a9,l,l,!0,l,l,l,l,l,l,l,l),B.bO,l)
+r=A.bw(r,l,l,l,l,A.bp(l,l,$.cY,l,l,l,l,l,l,l,l,24,l,l,B.a9,l,l,!0,l,l,l,l,l,l,l,l),B.bO,l)
 o=A.bo(l,10,l)
 n=m.y
 if(n==null)n=""
-s.push(A.j8(l,A.b5(l,A.dV(A.a([r,o,A.bw(n,l,l,l,l,A.bp(l,l,$.cY,l,l,l,l,l,l,l,l,16,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),B.bO,l)],k),B.D,B.U,B.G),B.l,l,l,new A.bM(q,l,l,p,l,l,B.T),l,new A.aq(20,20,20,20),new A.aq(10,10,10,10),1/0),B.a6,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.aj6(m),l,l,l))}return A.ave(A.dV(s,B.D,B.c8,B.G),l,B.a6,l,l,B.aI)}}
+s.push(A.j8(l,A.b5(l,A.dV(A.a([r,o,A.bw(n,l,l,l,l,A.bp(l,l,$.cY,l,l,l,l,l,l,l,l,18,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),B.bO,l)],k),B.D,B.U,B.G),B.l,l,l,new A.bM(q,l,l,p,l,l,B.T),l,new A.aq(20,20,20,20),new A.aq(10,10,10,10),1/0),B.a6,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.aj6(m),l,l,l))}return A.ave(A.dV(s,B.D,B.c8,B.G),l,B.a6,l,l,B.aI)}}
 A.aj1.prototype={
 $1(a){var s=J.at(a),r=s.h(a,"cardQuiz")
 s.h(a,"cardName")
