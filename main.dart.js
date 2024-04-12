@@ -45489,14 +45489,14 @@ s.toString
 A.r7(s)
 r.d=!1}},
 te(a,b,c){var s=null,r=a.length!==0,q=A.fd(r?A.fg(b,B.w,s,B.cN,s,s):A.aM(s,s,B.i,$.cr,s,s,s,s,s,s))
-return A.rE(!1,s,!0,A.dn(A.a([q,A.bl(a,s,s,s,s,A.bi(s,s,r?$.ci:$.cr,s,s,s,s,s,s,s,s,12,s,s,B.a8,s,s,!0,s,s,s,s,s,s,s,s),s,s)],t.p),B.L,B.bM,B.cv),s,!0,s,s,s,s,s,s,s,s,s,c,s,s,s,s)},
+return A.rE(!1,s,!0,A.dn(A.a([q,A.bl(a,s,s,s,s,A.bi(s,s,r?$.ci:$.cr,s,s,s,s,s,s,s,s,24,s,s,B.a8,s,s,!0,s,s,s,s,s,s,s,s),s,s)],t.p),B.L,B.bM,B.cv),s,!0,s,s,s,s,s,s,s,s,s,c,s,s,s,s)},
 afl(){var s,r,q,p=this,o=null,n=A.a([p.te("Deine Karten","assets/images/cards00.png",p.ga9d()),p.te("Deine Suche","assets/images/search.png",p.ga9b()),p.te("Deine Sammlung","assets/images/books00.png",p.ga97()),p.te("Login/Logout","assets/images/login.png",p.ga99())],t.p)
 for(s=0;s<12;++s)n.push(p.te("","",o))
 r=A.axy(n,!0,!0,!0)
 n=n.length
 q=!0
 q=q?B.hG:o
-return new A.xA(new A.N3(4,16,16,1),r,new A.al(16,16,16,16),B.aJ,!1,o,o,q,!1,o,n,B.a_,B.jM,o,B.E,o)},
+return new A.xA(new A.N3(2,16,16,1),r,new A.al(16,16,16,16),B.aJ,!1,o,o,q,!1,o,n,B.a_,B.jM,o,B.E,o)},
 a9a(){var s,r=this.c
 r.toString
 s=A.ik(new A.amx(),null,t.z)
@@ -45513,7 +45513,7 @@ a9e(){var s,r=this.c
 r.toString
 s=A.ik(new A.amz(),null,t.z)
 return A.fn(r).fq(s)},
-G(a){var s,r=null,q=$.cr,p=A.bl("Deine Wahl",r,r,r,r,A.bi(r,r,$.ci,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),o=$.ci
+G(a){var s,r=null,q=$.cr,p=A.bl("",r,r,r,r,A.bi(r,r,$.ci,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),o=$.ci
 p=A.nO(r,r,r,A.aM(r,r,B.i,r,r,new A.bG($.cr,r,r,r,r,r,B.P),r,r,r,r),new A.bU(r,r,r,r,r,o,r,r),r,p)
 o=$.cr
 s=this.afl()
