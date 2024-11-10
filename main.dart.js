@@ -46754,7 +46754,7 @@ s=$.bI
 r=q.c
 r.toString
 A.auF(r,A.d9(new A.anh(s),null,t.z))}else{q.a4(new A.ani(b))
-A.c7($.e0)}A.iy(A.c3(0,1000,0),new A.anj(q),t.P)},
+A.c7($.e0)}A.iy(A.c3(0,0,0),new A.anj(q),t.P)},
 G(a){var s,r,q=this,p=null,o=$.b2,n=$.bg
 n=A.f3(o,p,0,p,new A.bE(p,p,p,p,p,n,p,p),p,A.az("Deine Fragen",p,p,p,p,A.aB(p,p,n,p,p,p,p,p,p,p,p,24,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p))
 s=q.Q
@@ -47070,7 +47070,7 @@ s=q.c
 s.toString
 A.auF(s,A.d9(new A.apd(r),null,t.z))}}else{q.a4(new A.ape(b))
 A.c7($.e0)}q.Q3()
-A.iy(A.c3(0,1000,0),new A.apf(q),t.P)},
+A.iy(A.c3(0,0,0),new A.apf(q),t.P)},
 G(a){var s,r,q,p,o,n,m,l,k=this,j=null,i="cardType",h=A.by(a,j,t.w).w,g=A.az("Deine Karten",j,j,j,j,A.aB(j,j,$.bg,j,j,j,j,j,j,j,j,j,j,j,j,j,j,!0,j,j,j,j,j,j,j,j),j,j)
 g=A.f3($.b2,j,j,j,new A.bE(j,j,j,j,j,$.bg,j,j),j,g)
 s=$.b2
