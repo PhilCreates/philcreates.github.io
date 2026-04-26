@@ -45957,7 +45957,7 @@ this.aw()},
 I(a){var s,r,q="NanoLearn",p=null
 A.z3(a)
 A.pn(a)
-s=A.c_(A.b([A.au(q,p,p,p,p,A.aI(p,p,$.cm,p,p,p,p,p,p,p,p,32,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),A.au(" Learning Snacks",p,p,p,p,A.aI(p,p,$.cm,p,p,p,p,p,p,p,p,20,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p)],t.p),B.af,B.bp,B.p)
+s=A.c_(A.b([A.au(q,p,p,p,p,A.aI(p,p,$.cm,p,p,p,p,p,p,p,p,32,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),A.au(" Learn in Snacks",p,p,p,p,A.aI(p,p,$.cm,p,p,p,p,p,p,p,p,20,p,p,p,p,1.6,!0,p,p,p,p,p,p,p,p),p,p)],t.p),B.af,B.bp,B.p)
 r=A.fi($.aEW,B.w,p,p,24,24)
 return new A.B3(this.d,A.hL(A.iN(p,p,p,A.at(p,p,B.k,p,p,new A.bG($.bm,p,p,p,p,p,B.N),p,p,p,p,p,p,p),p,r,s),p,new A.CQ(p),p,p),q,p)}}
 A.arG.prototype={
